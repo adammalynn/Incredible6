@@ -1,41 +1,41 @@
-City,ID,Name,Rating,Type,Street,City,State,Zip
-Asheville,55,Asheville Brewing Company,82.91665,Brewery,77 Coxe Avenue,Asheville,NC,28804
-Asheville,56,Asheville Pizza and Brewing Company,85.833275,Brewpub,675 Merrimon Avenue,Asheville,NC,28804
-Asheville,473,French Broad Brewing Company,87.22225,Brewery,101-D Fairview Road,Asheville,NC,28803
-Asheville,548,Green Man Ales and Brewery (Dirty Jack's),87.222216666666,Brewery,23 Buxton Avenue,Asheville,NC,28804
-Asheville,680,Jack of the Wood (Green Man Brewing),0,Beer Bar,95 Patton Avenue,Asheville,NC,28801
-Asheville,2789,Barley's Taproom and Pizzeria,83.3334,Beer Bar,42 Biltmore Avenue,Asheville,NC,28801
-Asheville,2792,"Bier Garden, The",0,Beer Bar,46 Haywood Street,Asheville,NC,28804
-Asheville,2820,Mellow Mushroom - Asheville,0,Beer Bar,50 Broadway,Asheville,NC,28801
-Asheville,2843,Westville Pub,81.6667,Beer Bar,777 Haywood Road,Asheville,NC,28806
-Asheville,2849,Earth Fare,80,Beer Store,66 Westgate Parkway,Asheville,NC,28806
-Asheville,2852,Greenlife Grocery,81.6667,Beer Store,70 N. Merrimon Avenue,Asheville,NC,28801
-Asheville,2871,Asheville Wine Market,0,Beer Store,65 Biltmore Ave.,Asheville,NC,28801
-Asheville,2872,Weinhaus,85,Beer Store,86 Patton Ave.,Asheville,NC,28801
-Asheville,3899,Bruisin' Ales,94.999975,Beer Store,66 Broadway Street,Asheville,NC,28801
-Asheville,5100,Highland Brewing Company,83.33345,Brewery,12 Old Charlotte Highway,Asheville,NC,28802
-Asheville,6994,"Thirsty Monk, The",93.33335,Beer Bar,50 Commerce Street,Asheville,NC,28806
-Asheville,7689,Wedge Brewing Company,88.7500125,Brewery,129 B Roberts Street,Asheville,NC,28801
-Asheville,10604,The Admiral,81.6666,Beer Bar,400 Haywood Rd,Asheville,NC,28806
-Asheville,10226,Oyster House Brewing,0,Brewpub,625 Haywood Rd,Asheville,NC,28806
-Asheville,11178,Appalachian Vintner,0,Beer Store,2-B Huntsman Place,Asheville,NC,28803
-Asheville,11657,Lexington Avenue Brewery,83.3333,Brewpub,39 N Lexington Ave.,Asheville,NC,28801
-West Asheville,12305,Hops and Vines,0,Beer Store,797 Haywood Rd. Ste 100,West Asheville,NC,28806
-Asheville,12669,"Root Bar #1, The",0,Beer Bar,1410 Tunnel Rd,Asheville,NC,28805
-Asheville,15391,"Thirsty Monk, The - South Monk",83.3334,Brewpub,1836 Hendersonville Rd,Asheville,NC,28803-3207
-Asheville,16646,Wicked Weed Brewing,87.7778,Brewpub,91 Biltmore Ave,Asheville,NC,28801
-Asheville,16987,Creekside Taphouse,0,Beer Bar,8 Beverly Rd,Asheville,NC,28805
-Asheville,17079,Altamont Brewing Co,0,Beer Bar,1042 Haywood Road,Asheville,NC,28806
-Asheville,17471,Hi-Wire Brewing,0,Brewery,197 Hilliard Avenue,Asheville,NC,28801
-Asheville,17623,Burial Beer Co,81.6667,Brewery,40 Collier Avenue,Asheville,NC,28801
-Asheville,18445,Pack's Tavern,0,Beer Bar,20 South Spruce St,Asheville,NC,28801
-Asheville,18800,Twin Leaf Brewery,0,Brewery,144 Coxe Avenue,Asheville,NC,28801
-Asheville,18801,Catawba Brewing Co.,81.6667,Brewery,63 Brook Street,Asheville,NC,28803
-Asheville,18871,Universal Joint,0,Beer Bar,784 Haywood Road,Asheville,NC,28806
-Asheville,19149,One World Brewing,80.00005,Brewery,10 Patton Avenue,Asheville,NC,28801
-Asheville,19538,Open Brewing,59.99995,Brewery,20 Gala Drive #101,Asheville,NC,28803
-Asheville,20580,Noble Cider,0,Brewery,356 New Leicester Hwy,Asheville,NC,28806
-Asheville,20581,New Belgium Brewing Company - Asheville,0,Brewery,21 Craven St,Asheville,NC,28806
-Asheville,20611,Stone Road Restaurant and Bar,0,Beer Bar,328 New Leicester Hwy,Asheville,NC,28806
-Asheville,21126,Catawba Brewing Company,0,Brewery,32 Banks Ave #105,Asheville,NC,28801
-Asheville,21359,Ckaddagh Restaurant and Pub,0,Beer Bar,4 College St,Asheville,NC,28801
+ID,Name,Rating,Type,Street,City,State,Zip
+55,Asheville Brewing Company,82.91665,Brewery,77 Coxe Avenue,Asheville,NC,28804
+56,Asheville Pizza and Brewing Company,85.833275,Brewpub,675 Merrimon Avenue,Asheville,NC,28804
+473,French Broad Brewing Company,87.22225,Brewery,101-D Fairview Road,Asheville,NC,28803
+548,Green Man Ales and Brewery (Dirty Jack's),87.222216666666,Brewery,23 Buxton Avenue,Asheville,NC,28804
+680,Jack of the Wood (Green Man Brewing),0,Beer Bar,95 Patton Avenue,Asheville,NC,28801
+2789,Barley's Taproom and Pizzeria,83.3334,Beer Bar,42 Biltmore Avenue,Asheville,NC,28801
+2792,"Bier Garden, The",0,Beer Bar,46 Haywood Street,Asheville,NC,28804
+2820,Mellow Mushroom - Asheville,0,Beer Bar,50 Broadway,Asheville,NC,28801
+2843,Westville Pub,81.6667,Beer Bar,777 Haywood Road,Asheville,NC,28806
+2849,Earth Fare,80,Beer Store,66 Westgate Parkway,Asheville,NC,28806
+2852,Greenlife Grocery,81.6667,Beer Store,70 N. Merrimon Avenue,Asheville,NC,28801
+2871,Asheville Wine Market,0,Beer Store,65 Biltmore Ave.,Asheville,NC,28801
+2872,Weinhaus,85,Beer Store,86 Patton Ave.,Asheville,NC,28801
+3899,Bruisin' Ales,94.999975,Beer Store,66 Broadway Street,Asheville,NC,28801
+5100,Highland Brewing Company,83.33345,Brewery,12 Old Charlotte Highway,Asheville,NC,28802
+6994,"Thirsty Monk, The",93.33335,Beer Bar,50 Commerce Street,Asheville,NC,28806
+7689,Wedge Brewing Company,88.7500125,Brewery,129 B Roberts Street,Asheville,NC,28801
+10604,The Admiral,81.6666,Beer Bar,400 Haywood Rd,Asheville,NC,28806
+10226,Oyster House Brewing,0,Brewpub,625 Haywood Rd,Asheville,NC,28806
+11178,Appalachian Vintner,0,Beer Store,2-B Huntsman Place,Asheville,NC,28803
+11657,Lexington Avenue Brewery,83.3333,Brewpub,39 N Lexington Ave.,Asheville,NC,28801
+12305,Hops and Vines,0,Beer Store,797 Haywood Rd. Ste 100,West Asheville,NC,28806
+12669,"Root Bar #1, The",0,Beer Bar,1410 Tunnel Rd,Asheville,NC,28805
+15391,"Thirsty Monk, The - South Monk",83.3334,Brewpub,1836 Hendersonville Rd,Asheville,NC,28803-3207
+16646,Wicked Weed Brewing,87.7778,Brewpub,91 Biltmore Ave,Asheville,NC,28801
+16987,Creekside Taphouse,0,Beer Bar,8 Beverly Rd,Asheville,NC,28805
+17079,Altamont Brewing Co,0,Beer Bar,1042 Haywood Road,Asheville,NC,28806
+17471,Hi-Wire Brewing,0,Brewery,197 Hilliard Avenue,Asheville,NC,28801
+17623,Burial Beer Co,81.6667,Brewery,40 Collier Avenue,Asheville,NC,28801
+18445,Pack's Tavern,0,Beer Bar,20 South Spruce St,Asheville,NC,28801
+18800,Twin Leaf Brewery,0,Brewery,144 Coxe Avenue,Asheville,NC,28801
+18801,Catawba Brewing Co.,81.6667,Brewery,63 Brook Street,Asheville,NC,28803
+18871,Universal Joint,0,Beer Bar,784 Haywood Road,Asheville,NC,28806
+19149,One World Brewing,80.00005,Brewery,10 Patton Avenue,Asheville,NC,28801
+19538,Open Brewing,59.99995,Brewery,20 Gala Drive #101,Asheville,NC,28803
+20580,Noble Cider,0,Brewery,356 New Leicester Hwy,Asheville,NC,28806
+20581,New Belgium Brewing Company - Asheville,0,Brewery,21 Craven St,Asheville,NC,28806
+20611,Stone Road Restaurant and Bar,0,Beer Bar,328 New Leicester Hwy,Asheville,NC,28806
+21126,Catawba Brewing Company,0,Brewery,32 Banks Ave #105,Asheville,NC,28801
+21359,Ckaddagh Restaurant and Pub,0,Beer Bar,4 College St,Asheville,NC,28801

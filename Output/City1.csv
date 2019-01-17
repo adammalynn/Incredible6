@@ -1,60 +1,60 @@
-City,ID,Name,Rating,Type,Street,City,State,Zip
-Raleigh,392,Big Boss Brewing Company,78.333425,Brewery,1249 Wicker Drive,Raleigh,NC,27604
-Raleigh ,6541,Brixx Wood Fired Pizza - Raleigh,0,Beer Bar,8511 Briercreek Parkway ,Raleigh ,NC,27617
-Raleigh,2787,42nd Street Oyster Bar and Seafood Grill,81.6667,Beer Bar,508 W. Jones Street,Raleigh,NC,27603
-Raleigh,2797,Carolina Ale House - Raleigh,73.3332,Beer Bar,4512 Falls Of Neuse Road,Raleigh,NC,27609
-Raleigh,2806,Flying Saucer - Raleigh,87.00006,Beer Bar,328 West Morgan Street,Raleigh,NC,27601
-Raleigh,2810,Hibernian Restaurant And Pub,86.6665,Beer Bar,311 Glenwood Avenue,Raleigh,NC,27603
-Raleigh,2811,Horniblow's Tavern,84.99995,Beer Bar,1249 Wicker Drive,Raleigh,NC,27604
-Raleigh,2821,Mellow Mushroom - Raleigh,0,Beer Bar,601 Peace Street,Raleigh,NC,27605
-Raleigh,2828,"Pour House, The",0,Beer Bar,224 S Blount Street,Raleigh,NC,27601
-Raleigh,2832,Sawmill Tap Room,0,Beer Bar,7701 Lead Mine Road,Raleigh,NC,27615
-Raleigh,2841,Village Draft House,85,Beer Bar,428 Daniels Street,Raleigh,NC,27605
-Raleigh,2862,Total Wine and More - Raleigh,76.6667,Beer Store,8381 Brier Creek Parkway,Raleigh,NC,27616
-Raleigh,2863,Whole Foods Market - Raleigh,80.8334,Beer Store,3540 Wade Avenue,Raleigh,NC,27607
-Raleigh,2865,American Brewmaster,80.0001,Homebrew,3021-5 Stoneybrook Drive,Raleigh,NC,27604
-Raleigh,3125,Carolina Ale House - Raleigh,74.9999,Beer Bar,7981 Skyland Ridge,Raleigh,NC,27617
-Raleigh,3126,Carolina Ale House - Raleigh,66.6666,Beer Bar,512 Creekside Drive,Raleigh,NC,27609
-Raleigh,5024,Peace Street Market,63.3336,Beer Store,804 West Peace Street,Raleigh,NC,27605
-Raleigh,5025,"Raleigh Times, The",86.6666,Beer Bar,14 East Hargett Street,Raleigh,NC,27601
-Raleigh,5348,Falls Tap Room,85,Beer Bar,5009 Falls of Neuse Rd,Raleigh,NC,27609
-Raleigh,5368,Total Wine and More - Raleigh Triangle,76.66675,Beer Store,6105 Capital Boulevard,Raleigh,NC,27616
-Raleigh,6154,J Betski's,89.99995,Beer Bar,10 W Franklin St,Raleigh,NC,27604
-Raleigh,9978,Lonerider Brewing Company,93.33325,Brewery,"8816 Gulf Court, Suite 100,",Raleigh,NC,27617
-Raleigh,10134,Boylan Bridge Brewpub,94.9999,Brewpub,201 South Boylan Avenue,Raleigh,NC,27603
-Raleigh,10397,Porter's City Tavern,0,Beer Bar,2412 Hillsborough St.,Raleigh,NC,27607
-Raleigh,10831,"Brickhouse, The",0,Beer Bar,3801 Hillsborough St.,Raleigh,NC,27607
-Raleigh,10855,College Beverage,0,Beer Store,3006 Hillsborough Street,Raleigh,NC,27606
-Raleigh,11624,Woody's at City Market,0,Beer Bar,205 Wolfe St  ,Raleigh,NC,27614
-Raleigh,11020,Six Twelve Convenience Store,0,Beer Store,"2109 Avent Ferry Road, Suite 120",Raleigh,NC,27606
-Raleigh,11021,Seaboard Wine and Tasting Bar,0,Beer Store,802 Semart Drive,Raleigh,NC,27604
-Raleigh,11329,Barley and Vine,88.3333,Beer Store,5910 Duraleigh Rd,Raleigh,NC,27612
-Raleigh,11395,The Pit Authentic Barbecue,85.8333,Beer Bar,328 West Davie Street,Raleigh,NC,27601
-Raleigh,11437,Total Wine and More - Raleigh North Hills,0,Beer Store,4261 The Circle At N Hills St,Raleigh,NC,27609
-Raleigh,11623,Taylor's Wine Shop,76.66665,Beer Store,10005 Six Forks Rd,Raleigh,NC,27615
-Raleigh,13087,Crabtree Tavern,0,Beer Bar,5300 Homewood Banks Drive,Raleigh,NC,27612
-Raleigh,13086,Leesville Tap Room,0,Beer Bar,13200 Strickland Road,Raleigh,NC,27613
-Raleigh,13088,Tra'Li Bar and Restaurant,0,Beer Bar,"10370 Moncreiffe Rd, Suite 109",Raleigh,NC,27617
-Raleigh,14080,Fith Season Gardening,0,Homebrew,5619 Hillsborough St.,Raleigh,NC,27606
-Raleigh,14200,Tasty Beverage Company,0,Beer Store,327 W Davie St. Suite 106,Raleigh,NC,27601
-Raleigh,14595,Bottle Revolution,100,Beer Store,4025 Lake Boone Trail,Raleigh,NC,27607
-Raleigh,16005,Fork and Barrel,0,Beer Bar,6675-105 Falls of the Neuse Rd,Raleigh,NC,27615
-Raleigh,16022,Ridgewood Wine and Beer Company,0,Beer Store,1214 Ridge Road,Raleigh,NC,27607
-Raleigh,17118,Trophy Brewing,83.3333,Brewery,827 West Morgan St.,Raleigh,NC,27603
-Raleigh,18345,Paddy O' Beers,0,Beer Store,121 Fayetteville St. Suite 114,Raleigh,NC,27601
-Raleigh,18442,Raleigh Brewing Company,0,Brewery,3709 Neil Street,Raleigh,NC,27607
-Raleigh,18467,Crank Arm Brewing Company,0,Brewery,319 W. Davie Street,Raleigh,NC,27601
-Raleigh,18892,Gizmo Brew Works,0,Brewery,5907 Triangle Drive,Raleigh,NC,27617
-Raleigh,19554,Nickelpoint Brewing Company,0,Brewery,506 Pershing Road,Raleigh,NC,27608
-Raleigh,19556,Sub Noir Brewing Company,0,Brewery,2039 Progress Court,Raleigh,NC,27608
-Raleigh,19998,Lynwood Grill and Brewing Concern,0,Brewpub,4821 Grove Barton Rd,Raleigh,NC,27613
-Raleigh,19999,Compass Rose Brewery,0,Brewery,3201 Northside Drive Suite 101,Raleigh,NC,27615
-Raleigh,20001,Neuse River Brewing Company,0,Brewery,518 Pershing Road,Raleigh,NC,27608
-Raleigh,20478,Raleigh Beer Garden,0,Beer Bar,614 Glenwood Ave,Raleigh,NC,27603
-Raleigh,21570,Lynnwood Brewing Concern,0,Brewery,1053 E Whitaker Mill Rd,Raleigh,NC,27604
-Raleigh,21571,Lynnwood Grill and Brewing,0,Brewpub,4821 Grove Barton Road,Raleigh,NC,27613
-Raleigh,21839,Brewery Bhavana,0,Brewpub,218 S Blount Street,Raleigh,NC,27601
-Raleigh,21840,Trophy Brewing Tap and Table,0,Brewpub,225 South Wilmington Street,Raleigh,NC,27601
-Raleigh,21843,State of Beer,0,Beer Bar,401A Hillsborough Street,Raleigh,NC,27603
-Raleigh,21844,Clouds Brewing Raleigh,0,Brewpub,126 N West St,Raleigh,NC,27603
-Raleigh,21845,Little City Brewing + Provisions Co.,0,Brewery,400 W North St,Raleigh,NC,27603
+ID,Name,Rating,Type,Street,City,State,Zip
+392,Big Boss Brewing Company,78.333425,Brewery,1249 Wicker Drive,Raleigh,NC,27604
+6541,Brixx Wood Fired Pizza - Raleigh,0,Beer Bar,8511 Briercreek Parkway ,Raleigh ,NC,27617
+2787,42nd Street Oyster Bar and Seafood Grill,81.6667,Beer Bar,508 W. Jones Street,Raleigh,NC,27603
+2797,Carolina Ale House - Raleigh,73.3332,Beer Bar,4512 Falls Of Neuse Road,Raleigh,NC,27609
+2806,Flying Saucer - Raleigh,87.00006,Beer Bar,328 West Morgan Street,Raleigh,NC,27601
+2810,Hibernian Restaurant And Pub,86.6665,Beer Bar,311 Glenwood Avenue,Raleigh,NC,27603
+2811,Horniblow's Tavern,84.99995,Beer Bar,1249 Wicker Drive,Raleigh,NC,27604
+2821,Mellow Mushroom - Raleigh,0,Beer Bar,601 Peace Street,Raleigh,NC,27605
+2828,"Pour House, The",0,Beer Bar,224 S Blount Street,Raleigh,NC,27601
+2832,Sawmill Tap Room,0,Beer Bar,7701 Lead Mine Road,Raleigh,NC,27615
+2841,Village Draft House,85,Beer Bar,428 Daniels Street,Raleigh,NC,27605
+2862,Total Wine and More - Raleigh,76.6667,Beer Store,8381 Brier Creek Parkway,Raleigh,NC,27616
+2863,Whole Foods Market - Raleigh,80.8334,Beer Store,3540 Wade Avenue,Raleigh,NC,27607
+2865,American Brewmaster,80.0001,Homebrew,3021-5 Stoneybrook Drive,Raleigh,NC,27604
+3125,Carolina Ale House - Raleigh,74.9999,Beer Bar,7981 Skyland Ridge,Raleigh,NC,27617
+3126,Carolina Ale House - Raleigh,66.6666,Beer Bar,512 Creekside Drive,Raleigh,NC,27609
+5024,Peace Street Market,63.3336,Beer Store,804 West Peace Street,Raleigh,NC,27605
+5025,"Raleigh Times, The",86.6666,Beer Bar,14 East Hargett Street,Raleigh,NC,27601
+5348,Falls Tap Room,85,Beer Bar,5009 Falls of Neuse Rd,Raleigh,NC,27609
+5368,Total Wine and More - Raleigh Triangle,76.66675,Beer Store,6105 Capital Boulevard,Raleigh,NC,27616
+6154,J Betski's,89.99995,Beer Bar,10 W Franklin St,Raleigh,NC,27604
+9978,Lonerider Brewing Company,93.33325,Brewery,"8816 Gulf Court, Suite 100,",Raleigh,NC,27617
+10134,Boylan Bridge Brewpub,94.9999,Brewpub,201 South Boylan Avenue,Raleigh,NC,27603
+10397,Porter's City Tavern,0,Beer Bar,2412 Hillsborough St.,Raleigh,NC,27607
+10831,"Brickhouse, The",0,Beer Bar,3801 Hillsborough St.,Raleigh,NC,27607
+10855,College Beverage,0,Beer Store,3006 Hillsborough Street,Raleigh,NC,27606
+11624,Woody's at City Market,0,Beer Bar,205 Wolfe St  ,Raleigh,NC,27614
+11020,Six Twelve Convenience Store,0,Beer Store,"2109 Avent Ferry Road, Suite 120",Raleigh,NC,27606
+11021,Seaboard Wine and Tasting Bar,0,Beer Store,802 Semart Drive,Raleigh,NC,27604
+11329,Barley and Vine,88.3333,Beer Store,5910 Duraleigh Rd,Raleigh,NC,27612
+11395,The Pit Authentic Barbecue,85.8333,Beer Bar,328 West Davie Street,Raleigh,NC,27601
+11437,Total Wine and More - Raleigh North Hills,0,Beer Store,4261 The Circle At N Hills St,Raleigh,NC,27609
+11623,Taylor's Wine Shop,76.66665,Beer Store,10005 Six Forks Rd,Raleigh,NC,27615
+13087,Crabtree Tavern,0,Beer Bar,5300 Homewood Banks Drive,Raleigh,NC,27612
+13086,Leesville Tap Room,0,Beer Bar,13200 Strickland Road,Raleigh,NC,27613
+13088,Tra'Li Bar and Restaurant,0,Beer Bar,"10370 Moncreiffe Rd, Suite 109",Raleigh,NC,27617
+14080,Fith Season Gardening,0,Homebrew,5619 Hillsborough St.,Raleigh,NC,27606
+14200,Tasty Beverage Company,0,Beer Store,327 W Davie St. Suite 106,Raleigh,NC,27601
+14595,Bottle Revolution,100,Beer Store,4025 Lake Boone Trail,Raleigh,NC,27607
+16005,Fork and Barrel,0,Beer Bar,6675-105 Falls of the Neuse Rd,Raleigh,NC,27615
+16022,Ridgewood Wine and Beer Company,0,Beer Store,1214 Ridge Road,Raleigh,NC,27607
+17118,Trophy Brewing,83.3333,Brewery,827 West Morgan St.,Raleigh,NC,27603
+18345,Paddy O' Beers,0,Beer Store,121 Fayetteville St. Suite 114,Raleigh,NC,27601
+18442,Raleigh Brewing Company,0,Brewery,3709 Neil Street,Raleigh,NC,27607
+18467,Crank Arm Brewing Company,0,Brewery,319 W. Davie Street,Raleigh,NC,27601
+18892,Gizmo Brew Works,0,Brewery,5907 Triangle Drive,Raleigh,NC,27617
+19554,Nickelpoint Brewing Company,0,Brewery,506 Pershing Road,Raleigh,NC,27608
+19556,Sub Noir Brewing Company,0,Brewery,2039 Progress Court,Raleigh,NC,27608
+19998,Lynwood Grill and Brewing Concern,0,Brewpub,4821 Grove Barton Rd,Raleigh,NC,27613
+19999,Compass Rose Brewery,0,Brewery,3201 Northside Drive Suite 101,Raleigh,NC,27615
+20001,Neuse River Brewing Company,0,Brewery,518 Pershing Road,Raleigh,NC,27608
+20478,Raleigh Beer Garden,0,Beer Bar,614 Glenwood Ave,Raleigh,NC,27603
+21570,Lynnwood Brewing Concern,0,Brewery,1053 E Whitaker Mill Rd,Raleigh,NC,27604
+21571,Lynnwood Grill and Brewing,0,Brewpub,4821 Grove Barton Road,Raleigh,NC,27613
+21839,Brewery Bhavana,0,Brewpub,218 S Blount Street,Raleigh,NC,27601
+21840,Trophy Brewing Tap and Table,0,Brewpub,225 South Wilmington Street,Raleigh,NC,27601
+21843,State of Beer,0,Beer Bar,401A Hillsborough Street,Raleigh,NC,27603
+21844,Clouds Brewing Raleigh,0,Brewpub,126 N West St,Raleigh,NC,27603
+21845,Little City Brewing + Provisions Co.,0,Brewery,400 W North St,Raleigh,NC,27603
