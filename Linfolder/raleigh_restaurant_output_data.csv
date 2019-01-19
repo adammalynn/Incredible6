@@ -1,0 +1,1102 @@
+City,Name,Review,Zip_codes,Rating,Price,Lat,Long,Title
+asheville,Sunny Point Café,1523,28806,4.5,$$,35.57859,-82.5888499,Southern
+asheville,Cúrate,1408,28801,4.5,$$$,35.5942,-82.55162,Tapas Bars
+asheville,Tupelo Honey,2102,28801,4.5,$$,35.594671,-82.554889,Southern
+asheville,Biscuit Head,1151,28801,4.5,$,35.581280916539,-82.551527679148,Cafes
+asheville,White Duck Taco Shop,1226,28801,4.5,$,35.594012,-82.572271,American (New)
+asheville,Biscuit Head,765,28806,4.5,$,35.57788,-82.59277,Bakeries
+asheville,Chai Pani,731,28801,4.5,$$,35.595036,-82.5553632,Indian
+asheville,HomeGrown,867,28801,4.5,$,35.611713,-82.554833,American (New)
+asheville,12 Bones Smokehouse RIVER,755,28801,4.5,$$,35.5775205,-82.5660508,Barbeque
+asheville,The Admiral,676,28806,4.5,$$,35.57773,-82.5798,American (New)
+asheville,Plant,416,28801,4.5,$$,35.604731,-82.552837,Vegan
+asheville,Chestnut,674,28801,4.5,$$,35.5931657,-82.550943,American (New)
+asheville,Limones Restaurant,528,28801,4.5,$$,35.59384,-82.55073,Mexican
+asheville,Early Girl Eatery,861,28801,4.0,$$,35.594839,-82.555001,Vegetarian
+asheville,HOLE - Hot Doughnuts and Fresh Coffee,343,28806,4.5,$,35.58077,-82.57313,Donuts
+asheville,Corner Kitchen,719,28803,4.0,$$,35.5662827271363,-82.5412345656414,American (Traditional)
+asheville,Laughing Seed Cafe,607,28801,4.0,$$,35.59453,-82.55582,Vegetarian
+asheville,Biltmore Estate,928,28803,4.0,$$$,35.540558,-82.552342,Museums
+asheville,Nine Mile,492,28801,4.5,$$,35.60292,-82.56455,Caribbean
+asheville,Salsa's,674,28801,4.0,$$,35.594852,-82.552072,Mexican
+asheville,French Broad Chocolate Lounge,684,28801,4.0,$$,35.59491,-82.55104,Chocolatiers & Shops
+asheville,Rocky's Hot Chicken Shack,431,28806,4.5,$$,35.5785688060001,-82.6097350223432,Chicken Wings
+asheville,Over Easy Cafe,496,28801,4.5,$$,35.59639,-82.55185,Breakfast & Brunch
+asheville,Farm Burger Asheville,616,28801,4.0,$$,35.5947799402353,-82.5522854179144,Burgers
+asheville,Red Ginger Dimsum And Tapas,422,28801,4.5,$$,35.5977171266241,-82.5556116690861,Dim Sum
+asheville,Blue Dream Curry House,294,28801,4.5,$$,35.594554,-82.555198,Asian Fusion
+asheville,Zambra Wine Tapas & Cuisine,452,28801,4.0,$$,35.5961644649506,-82.5544580072165,Wine Bars
+asheville,Abeja's House Cafe,239,28803,4.5,$,35.5150679121487,-82.5269131812844,Breakfast & Brunch
+asheville,Funkatorium,317,28801,4.5,$$,35.5891991,-82.5552216,Pubs
+asheville,Vinnie's Neighborhood Italian,348,28804,4.5,$$,35.621156,-82.554172,Italian
+asheville,The Market Place,382,28801,4.5,$$,35.59455,-82.5552,American (New)
+asheville,Battery Park Book Exchange & Champagne Bar,254,28801,4.5,$$,35.5950978916618,-82.5566715687172,Bookstores
+asheville,Luella's Bar-B-Que,422,28804,4.0,$$,35.61527,-82.55462,Barbeque
+asheville,Mayfel's,566,28801,4.0,$$,35.59499,-82.55462,Southern
+asheville,Posana,390,28801,4.0,$$,35.59458,-82.55172,American (New)
+asheville,Rosetta's Kitchen & The Buchi Bar,369,28801,4.0,$$,35.59875,-82.55392,Vegetarian
+asheville,The Chocolate Fetish,195,28801,4.5,$$,35.5957099,-82.5549,Chocolatiers & Shops
+asheville,Wedge Brewing Company,299,28801,4.5,$,35.586253,-82.566383,Bars
+asheville,Double D's Coffee & Desserts,284,28801,4.5,$,35.593242,-82.551413,Coffee & Tea
+asheville,Bhramari Brewing Company,341,28801,4.5,$$,35.59142,-82.55211,Breweries
+asheville,Buxton Hall Barbecue,645,28801,4.0,$$,35.5892162495678,-82.5535614385767,Southern
+asheville,The Lobster Trap,371,28801,4.0,$$$,35.5950088500977,-82.5532531738281,Seafood
+asheville,Moe's Original Bar B Que,290,28803,4.5,$$,35.56585,-82.53815,Soul Food
+asheville,White Duck Taco Shop,373,28803,4.0,$,35.5942781,-82.5513645,American (New)
+asheville,Sovereign Remedies,247,28801,4.5,$$,35.59688177349,-82.551155643696,Cocktail Bars
+asheville,Rezaz,320,28803,4.0,$$,35.56768,-82.54375,Wine Bars
+asheville,Taco Billy,212,28807,4.5,$,35.58005,-82.57455,Coffee & Tea
+asheville,Rhubarb,387,28801,4.0,$$$,35.594619,-82.551898,American (New)
+asheville,Bouchon French Bistro,352,28801,4.0,$$,35.59698,-82.55314,French
+asheville,Pack's Tavern,467,28801,4.0,$$,35.5951305689568,-82.5496426269837,Pubs
+asheville,Old Europe Coffee & Pastries,283,28801,4.0,$,35.59578,-82.55221,Coffee & Tea
+asheville,Jerusalem Garden Cafe,302,28801,4.0,$$,35.59424,-82.55476,Middle Eastern
+asheville,Vortex Doughnuts,421,28801,4.0,$,35.5891903065579,-82.5537250754745,Coffee & Tea
+asheville,Cucina 24,273,28801,4.0,$$$,35.59454,-82.55537,Italian
+asheville,Fahrenheit Pizza & Brewhouse,143,28803,5.0,$$,35.4851318353635,-82.5231004963674,Pizza
+asheville,High Five Coffee,202,28801,4.5,$$,35.601052,-82.5553903,Coffee & Tea
+asheville,Nightbell,222,28801,4.5,$$$,35.593819,-82.552078,American (New)
+asheville,Malaprop's Bookstore/Cafe,168,28801,4.5,$$,35.59621,-82.5549,Bookstores
+asheville,Gypsy Queen Cuisine,176,28806,4.5,$$,35.588307,-82.5861988,Mediterranean
+asheville,Urban Orchard Cider Co,157,28806,4.5,$$,35.579489,-82.574279,Bars
+asheville,Twisted Crepe,209,28801,4.5,$,35.5963168163468,-82.5553323112331,Creperies
+asheville,Bull And Beggar,226,28801,4.0,$$$,35.5865014297322,-82.5668791405796,Seafood
+asheville,Tupelo Honey,506,28803,4.0,$$,35.5030404957341,-82.5255469067459,Breakfast & Brunch
+asheville,Well-Bred Bakery & Cafe,200,28803,4.5,$,35.566257067378,-82.5415501612667,Cafes
+asheville,High Five Coffee Bar,142,28801,4.5,$,35.59573,-82.55349,Coffee & Tea
+asheville,Mela Indian Restaurant,384,28801,4.0,$$,35.5972579,-82.553156,Indian
+asheville,Chiesa,172,28801,4.5,$$,35.6004486,-82.5631104,Italian
+asheville,Bebettes Beignets & Coffee,128,28805,4.5,$,35.5856,-82.52863,Coffee & Tea
+asheville,Karen Donatelli,83,28801,5.0,$$,35.5963690908745,-82.5553250312805,Bakeries
+asheville,Copper Crown,200,28805,4.5,$$,35.58704,-82.49347,American (New)
+asheville,Mellow Mushroom,329,28801,4.0,$$,35.5968791494911,-82.5520351080281,Pizza
+asheville,Liberty House Coffee and Café,104,28801,4.5,$$,35.6024315167022,-82.5514953923401,Coffee & Tea
+asheville,Juicy Lucy's Burger Bar and Grill,286,28803,4.0,$$,35.5498046875,-82.5356292724609,Burgers
+asheville,Thirsty Monk Brewery & Pub,276,28801,4.0,$$,35.5941162109375,-82.5553359985352,Pubs
+asheville,Fig,174,28806,4.5,$$,35.5666002,-82.5404666,French
+asheville,The Hop,150,28804,4.5,$,35.62074,-82.55491,Desserts
+asheville,WALK,215,28806,4.0,$,35.5779765,-82.5797874,American (New)
+asheville,Dobra Tea,182,28801,4.0,$,35.59746,-82.55332,Tea Rooms
+asheville,Village Wayside,213,28803,4.0,$$,35.56767,-82.54244,American (Traditional)
+asheville,The Gourmet Chip Company,170,28801,4.5,$,35.5968323,-82.552368,Sandwiches
+asheville,Green Sage Cafe - Downtown,350,28801,4.0,$,35.595611,-82.552078,Coffee & Tea
+asheville,Asheville Pizza & Brewing Company,364,28804,4.0,$$,35.622192,-82.553698,Cinema
+asheville,Papas and Beer,256,28805,4.0,$$,35.5968580337151,-82.5352553742267,Mexican
+asheville,Bonfire Barbecue,238,28806,4.0,$$,35.5863,-82.59344,Barbeque
+asheville,Cantina at Historic Biltmore Village,300,28803,4.0,$$,35.5669392874156,-82.541991,Mexican
+asheville,Jargon,125,28806,4.5,$$,35.57773,-82.59213,American (New)
+asheville,The Blackbird,280,28801,4.0,$$,35.5930592463048,-82.551332761377,Southern
+asheville,Baba Nahm,101,28801,4.5,$,35.5953745463563,-82.5560358166694,Middle Eastern
+asheville,Sunshine Sammies,94,28801,4.5,$$,35.591617,-82.552129,Desserts
+asheville,5 Walnut Wine Bar,107,28801,4.5,$$,35.59669,-82.552547,Wine Bars
+asheville,The Döner - Kebabs & Falafels,81,28805,4.5,$,35.5792161931298,-82.5253852629864,Middle Eastern
+asheville,Zia Taqueria,166,28806,4.5,$$,35.579108,-82.584483,Tex-Mex
+asheville,En La Calle,88,28801,4.5,$$,35.5938415116249,-82.5504280586896,Cocktail Bars
+asheville,Asheville Brewing Company,327,28801,3.5,$$,35.59172,-82.55529,Breweries
+asheville,Sonora,134,28801,4.5,$$,35.59451,-82.55549,Mexican
+asheville,Cafe 64,157,28801,4.5,$$,35.59633,-82.555535,American (New)
+asheville,Cedric's Tavern,291,28803,4.0,$$,35.5560708658813,-82.5830021914292,Pubs
+asheville,A Taste of El Salvador,60,28806,5.0,$,35.5744881660098,-82.6154400408268,Salvadoran
+asheville,Mamacita's Taqueria,198,28801,4.0,$,35.592007,-82.55114,Tacos
+asheville,City Bakery,165,28801,4.0,$,35.5928,-82.55076,Bakeries
+asheville,Jack of the Wood,294,28801,4.0,$$,35.59435,-82.55576,Pubs
+asheville,Ultra Coffeebar,146,28801,4.0,$,35.5850739,-82.5647113,Coffee & Tea
+asheville,Nine Mile,184,28806,4.0,$$,35.5781599,-82.59341,Caribbean
+asheville,Papa's & Beer,209,28806,4.0,$$,35.5245022319656,-82.6051794667953,Bars
+asheville,Brasilia Churrasco Steakhouse - Asheville,147,28801,4.5,$$$,35.5967140197754,-82.5509033203125,Steakhouses
+asheville,Catawba Brewing,158,28801,4.0,$,35.5890693664551,-82.5535278320312,Bars
+asheville,Taqueria Munoz,80,28806,4.5,$,35.579402133002,-82.6082730735442,Mexican
+asheville,Strada Italiano,280,28801,4.0,$$,35.5962882,-82.5522352,Italian
+asheville,Moose Cafe Asheville,290,28806,4.0,$,35.553744139977,-82.5994227724914,American (Traditional)
+asheville,All Souls Pizza,159,28801,4.0,$$,35.587985,-82.56438,Pizza
+asheville,Wild Ginger,172,28803,4.5,$$,35.491044,-82.522214,Vietnamese
+asheville,Trade and Lore Coffee,96,28801,4.5,$,35.594754293561,-82.5555463135242,Coffee & Tea
+asheville,Korean House,145,28801,4.0,$$,35.595904,-82.550454,Korean
+asheville,Biltmore Estate Stable Cafe,199,28803,4.0,$$,35.5413757724718,-82.5522797599411,American (Traditional)
+asheville,Whit's Frozen Custard,56,28804,4.5,$,35.61822,-82.55387,Ice Cream & Frozen Yogurt
+asheville,Gan Shan Station,271,28801,3.5,$$,35.60457,-82.54625,Chinese
+asheville,Bomba,94,28801,4.5,$,35.5948836605335,-82.5519762344974,Latin American
+asheville,Wasabi,189,28801,4.0,$$,35.595962,-82.552322,Japanese
+asheville,Suwana's Thai Orchid,196,28801,4.0,$$,35.59573,-82.55218,Thai
+asheville,Red Stag Grill,195,28803,4.0,$$$,35.5668155409977,-82.5439886825734,American (New)
+asheville,Manicomio Pizza,115,28801,4.5,$,35.59375,-82.55148,Pizza
+asheville,Table,231,28801,4.0,$$$,35.59532,-82.55331,American (New)
+asheville,Mojo Kitchen & Lounge,97,28801,4.5,$$,35.5952113,-82.5531579,American (New)
+asheville,Well Played Board Game Cafe,69,28801,4.5,$,35.59443,-82.55633,Bars
+asheville,Mr Sushi,79,28803,4.5,$,35.51466,-82.52685,Japanese
+asheville,Favillas New York Pizza,199,28806,4.0,$$,35.58723,-82.59604,Pizza
+asheville,Barley's Taproom & Pizzeria,286,28801,3.5,$$,35.59328,-82.55088,Pizza
+asheville,MG Road,85,28801,4.5,$$,35.59483,-82.55524,Lounges
+asheville,Izzy's Coffee Den,102,28801,4.5,$,35.59743,-82.55332,Coffee & Tea
+asheville,Happy Jack's,153,28805,4.0,$,35.593536,-82.532466,Breakfast & Brunch
+asheville,Fresh Wood Fired Pizza West,107,28801,4.5,$$,35.5822219848633,-82.564338684082,Pizza
+asheville,Rankin Vault Cocktail Lounge,155,28801,4.0,$$,35.595433,-82.553393,Lounges
+asheville,Top of the Monk,132,28801,4.0,$$,35.594099,-82.555336,Cocktail Bars
+asheville,Deerpark Restaurant At the Biltmore Estate,134,28803,4.0,$$$,35.5500157767406,-82.5603456594467,Southern
+asheville,Tasty Beverage Company,49,28801,4.5,$$,35.588745,-82.554399,"Beer, Wine & Spirits"
+asheville,Another Broken Egg Cafe,154,28803,4.0,$$,35.48528,-82.55368,Cafes
+asheville,Universal Joint,181,28806,4.0,$$,35.57853,-82.59481,American (Traditional)
+asheville,Filo Pastries & Coffee,82,28805,4.5,$$,35.58706,-82.48682,Coffee & Tea
+asheville,Asheville Yacht Club,87,28801,4.5,$,35.5944826810962,-82.5554337910993,American (Traditional)
+asheville,Golden Fleece,97,28804,4.5,$$,35.621579,-82.543695,Mediterranean
+asheville,BimBeriBon,103,28806,4.0,$$,35.577673459596,-82.591339876273,Bakeries
+asheville,Mamacita's Taco Temple,121,28801,4.0,$,35.6037620841819,-82.5467389449477,Mexican
+asheville,Carmel's Restaurant and Bar,206,28801,3.5,$$,35.5950943493427,-82.5563298024121,Bars
+asheville,131 MAIN Restaurant,146,28803,4.0,$$,35.4852575,-82.5568218,American (New)
+asheville,Biltmore Coffee Roasters,69,28803,4.5,$,35.5531879,-82.538241,Coffee & Tea
+asheville,Mountain Madre Mexican Kitchen and Agave Bar,121,28801,4.0,$$,35.5966,-82.55293,Cocktail Bars
+asheville,Tiger Bay,40,28806,5.0,$,35.57806,-82.57863,Barbeque
+asheville,Blaze Fast-Fire'd Pizza,81,28803,4.5,$,35.50305,-82.52351,Salad
+asheville,828 Family Pizzeria,119,28804,4.0,$$,35.6306299,-82.55412,Pizza
+asheville,Storm Rhum Bar & Bistro,148,28801,4.0,$$,35.5910271446143,-82.5520516966706,American (New)
+asheville,Isa's Bistro,151,28801,4.0,$$,35.595512,-82.5549323,American (New)
+asheville,Twisted Laurel,170,28801,4.0,$$,35.5961060355163,-82.5502721312828,American (New)
+asheville,Kathmandu Kitchen,191,28801,3.5,$$,35.59414,-82.55521,Himalayan/Nepalese
+asheville,The Underground Cafe With DoughP Doughnuts,37,28801,5.0,$,35.595,-82.55051,Donuts
+asheville,Asheville Chocolate,69,28801,4.5,$$,35.59621,-82.55222,Chocolatiers & Shops
+asheville,White Labs Kitchen & Tap,83,28801,4.0,$$,35.590889,-82.548544,Pizza
+asheville,The Noodle Shop,204,28801,3.5,$$,35.594826,-82.552018,Noodles
+asheville,Santé Wine Bar And Tap Room,69,28801,4.5,$$,35.596072,-82.5566698,Wine Bars
+asheville,Tacos Jalisco Mexican Restaurant,88,28806,4.5,$,35.58438,-82.6030399,Mexican
+asheville,Stone Ridge Tavern,219,28806,4.0,$$,35.52614,-82.60747,American (Traditional)
+asheville,5 Points Restaurant,79,28801,4.5,$,35.603183,-82.556987,Diners
+asheville,Frostbite Ice Cream,46,28806,4.5,$,35.5778015,-82.6101925,Desserts
+asheville,OWL Bakery,74,28806,4.0,$,35.5779228210449,-82.5753555297852,Bakeries
+asheville,Papas and Beer,78,28803,4.5,$,35.48709,-82.52447,Mexican
+asheville,Smallcakes A Cupcakery & Creamery - Asheville,44,28803,5.0,$,35.4844026347565,-82.5566387186098,Cupcakes
+asheville,Short Street Cakes,77,28806,4.5,$$,35.57925,-82.57469,Bakeries
+asheville,Dobra Tea,56,28806,4.5,$,35.57771,-82.59201,Tea Rooms
+asheville,The Hop West,48,28806,4.5,$,35.5776819735289,-82.592287450337,Desserts
+asheville,East Village Grille,137,28805,4.0,$$,35.58709,-82.48638,Burgers
+asheville,Ultimate Ice Cream Company,47,28801,4.5,$,35.6065047272578,-82.5461207097197,Desserts
+asheville,Sand Hill Kitchen,42,28806,5.0,$,35.5424346,-82.6359091,Breakfast & Brunch
+asheville,Avenue M,124,28804,4.0,$$,35.6257685173393,-82.5535672523158,American (New)
+asheville,The Crow & Quill,79,28801,4.0,$$,35.598446064587,-82.5539183872054,Cocktail Bars
+asheville,Farm to Fender Food Truck,55,28803,4.5,$,35.5014079260307,-82.5174084133844,Food Trucks
+asheville,Odd's Cafe,58,28806,4.5,$,35.57865,-82.5954,Coffee & Tea
+asheville,Duck Donuts,46,28801,4.5,$,35.6052128506686,-82.5536292046309,Donuts
+asheville,Baked Pie Company - Woodfin,40,28804,4.5,$,35.641951,-82.576362,American (Traditional)
+asheville,Pizza Mind,88,28806,4.0,$$,35.5778600323973,-82.5751616433263,Pizza
+asheville,Geraldine's Bakery,49,28804,4.5,$,35.6273989,-82.553296,Donuts
+asheville,Smoky Park Supper Club,106,28801,4.0,$$,35.59155,-82.57198,American (New)
+asheville,Isis Restaurant & Music Hall,112,28806,4.0,$$,35.5782699584961,-82.5928421020508,American (New)
+asheville,Calypso St Lucian Caribbean Cuisine & Rum Bar,48,28801,4.5,$$,35.5955864,-82.5526955,Caribbean
+asheville,Little Bee Thai,77,28801,4.0,$$,35.59216,-82.55938,Thai
+asheville,Rejavanation Cafe,85,28715,4.5,$,35.5467172712088,-82.6555678993464,Coffee & Tea
+asheville,Ay Caramba Mexican Bar & Grill,68,28803,4.5,$,35.5704176,-82.5028631,Mexican
+asheville,Roman's,53,28801,4.5,$,35.5968472,-82.5554244,Sandwiches
+asheville,10th Muse Coffee,37,28803,4.5,$$,35.56537,-82.53852,Coffee & Tea
+asheville,Asheville Sandwich Company,100,28806,4.0,$,35.5787574,-82.5951647,Sandwiches
+asheville,Green Tea Japanese Restaurant,119,28806,4.0,$$,35.58958,-82.58257,Sushi Bars
+asheville,Standard Pizza Co,97,28806,4.0,$,35.578800201416,-82.5893707275391,Pizza
+asheville,SkyBar Asheville,150,28801,3.5,$$,35.595027923584,-82.5550842285156,Bars
+asheville,The Bywater,66,28801,4.0,$,35.6109,-82.57662,Music Venues
+asheville,Hana Japanese Hibachi & Sushi Bar,137,28801,3.5,$$,35.59443,-82.55168,Japanese
+asheville,Tastee Diner,80,28806,4.0,$,35.57874,-82.58673,American (Traditional)
+asheville,Village Social On Biltmore Estate,89,28803,4.0,$$,35.5550113,-82.5822251,American (New)
+asheville,Stonebowl Korean Restaurant,97,28803,4.0,$$,35.487838,-82.525306,Korean
+asheville,Nachos and Beer,73,28803,4.5,$,35.55093,-82.47093,Mexican
+asheville,Modesto,167,28801,3.5,$$,35.5955543518066,-82.556640625,Italian
+asheville,The Grey Eagle,64,28801,4.0,$$,35.587085723877,-82.5644149780273,Music Venues
+asheville,Burgerworx,78,28801,4.0,$,35.595554,-82.556638,Burgers
+asheville,Addissae,85,28801,4.0,$$,35.594,-82.55521,Ethiopian
+asheville,Elements Real Food,50,28801,4.5,$$,35.6029177616449,-82.5515524019366,Vegan
+asheville,Ruth's Chris Steakhouse,90,28803,4.0,$$$$,35.5649171825554,-82.5433731079102,Steakhouses
+asheville,Green Sage Cafe - South Asheville,127,28803,4.0,$$,35.505975,-82.5242619,Coffee & Tea
+asheville,The Bavarian Restaurant & Biergarten,103,28804,4.0,$$,35.6607855856419,-82.5814926624298,German
+asheville,Loretta's Cafe,58,28801,4.0,$,35.59868,-82.5539,Soup
+asheville,Standard Pizza Co,68,28803,4.0,$$,35.5706599,-82.54531,Pizza
+asheville,Apollo Flame Bistro - Brevard Rd,128,28806,4.0,$$,35.52513,-82.6074,Greek
+asheville,Battle Cat,80,28806,4.0,$,35.5780601501465,-82.5786285400391,Coffee & Tea
+asheville,The Montford Rooftop Bar,95,28801,4.0,$$,35.5959548950195,-82.5600814819336,American (New)
+asheville,El Kimchi,49,,4.5,$,35.59844,-82.55312,Korean
+asheville,Del Vecchios,91,28801,4.0,$$,35.6104927062988,-82.5544357299805,Italian
+asheville,Chupacabra Latin Cafe,71,28804,4.0,$$,35.641405,-82.576617,Latin American
+asheville,Farm Burger South Asheville,89,28803,4.0,$$,35.50342,-82.52482,Burgers
+asheville,Fatz Southern Kitchen,93,28806,4.0,$$,35.56253,-82.63314,American (Traditional)
+asheville,West End Bakery and Cafe,118,28806,3.5,$,35.5783005,-82.5937195,Bakeries
+asheville,Heiwa Shokudo,109,28801,3.5,$$,35.59767,-82.5538399,Japanese
+asheville,Champa,75,28801,4.0,$$,35.59451,-82.5517,Asian Fusion
+asheville,UpCountry Brewing,67,28806,4.0,$$,35.5815010070801,-82.6042022705078,Bars
+asheville,Ultimate Ice Cream,46,28805,4.5,$,35.588409,-82.491539,Ice Cream & Frozen Yogurt
+asheville,Summit Coffee,33,28801,4.5,$$,35.577465,-82.5663052,Coffee & Tea
+asheville,Foothills Butcher Bar: West,39,28806,4.5,$$,35.57759,-82.5913,Butcher
+asheville,Bonefish Grill,61,28805,4.0,$$,35.57572,-82.5198,Seafood
+asheville,The Bier Garden,238,28801,3.0,$$,35.595989,-82.555105,Sports Bars
+asheville,Kilwins Chocolate Fudge and Ice Cream,62,28801,4.0,$,35.59491,-82.55537,Ice Cream & Frozen Yogurt
+asheville,Melt Your Heart,32,28801,4.5,$,35.5962,-82.55472,Sandwiches
+asheville,The Scarlet Bee,33,28804,4.5,$$,35.6275,-82.55257,Lebanese
+asheville,Cornerstone,117,28805,3.5,$$,35.5932,-82.53084,American (Traditional)
+asheville,Haywood Common,45,28806,4.5,$$,35.57859,-82.58408,Salad
+asheville,Little Pigs BBQ,94,28803,4.0,$,35.57421,-82.55023,Barbeque
+asheville,Pad Thai - Asheville,64,28806,4.0,$$,35.526655,-82.6088127,Thai
+asheville,Bone and Broth,72,28801,4.0,$$,35.6027331,-82.546959,Gastropubs
+asheville,Cecilia's Kitchen,37,28804,4.5,$,35.6317112350377,-82.5539903729452,Coffee & Tea
+asheville,Asheville Guitar Bar,22,28801,5.0,$$,35.588088,-82.569015,Bars
+asheville,The Local Barber & Tap,25,28801,4.5,$$,35.5960311889648,-82.554573059082,Barbers
+asheville,Texas Roadhouse,90,28803,4.0,$$,35.561043,-82.539832,Steakhouses
+asheville,Piazza,63,28803,4.0,$$,35.55199,-82.47262,Pizza
+asheville,Ambrozia Bar & Bistro,67,28804,4.0,$$,35.632294,-82.555145,American (New)
+asheville,City Bakery,60,28801,4.0,$,35.6026415,-82.5468697,Bakeries
+asheville,Pomodoros Greek & Italian Cafe,98,28805,3.5,$$,35.5876389,-82.4915237,Italian
+asheville,Zoes Kitchen,62,28803,4.0,$,35.56931,-82.54379,Mediterranean
+asheville,Black Bear BBQ,37,28803,4.5,$,35.572112,-82.50443,Barbeque
+asheville,The Bistro,60,28803,4.0,$$$,35.5546509930893,-82.5813048996787,American (New)
+asheville,Ala Mode Macaron,16,28804,5.0,$$,35.6206189902356,-82.5549448441144,Macarons
+asheville,Ichiban,96,28803,3.5,$$,35.568403,-82.542777,Japanese
+asheville,The Imperial Life,58,28801,4.0,$$,35.5953398276149,-82.5533193626037,Cocktail Bars
+asheville,Old School Subs & Salads,37,28803,4.5,$,35.564018,-82.534141,Sandwiches
+asheville,Black Bear Pizza,41,28803,4.5,$,35.4992,-82.51813,Pizza
+asheville,PennyCup Coffee,24,28801,4.5,$$,35.59382,-82.55008,Coffee & Tea
+asheville,Zen Sushi,82,28804,4.0,$$,35.62074,-82.55491,Japanese
+asheville,El Que Pasa,74,28806,4.0,$,35.5879354468399,-82.5879938623165,Mexican
+asheville,Polanco Restaurant,93,28801,3.5,$$,35.59629,-82.55077,Mexican
+asheville,Social Lounge,74,28801,3.5,$$,35.5963094,-82.5522617,Cocktail Bars
+asheville,The Barrelhouse,42,28804,4.5,$$,35.63736,-82.57393,Pubs
+asheville,828 Family Pizzeria,53,28803,4.0,$$,35.50198,-82.52271,Italian
+asheville,The Whale :: A Craft Beer Collective,28,28806,4.5,$$,35.57859,-82.58408,Beer Bar
+asheville,India Garden,82,28805,3.5,$$,35.5806999206543,-82.5216445922852,Indian
+asheville,Cinnamon Kitchen,111,28803,3.5,$$,35.50349,-82.52367,Indian
+asheville,The Conundrum,28,28801,4.5,$$,35.596466,-82.556877,Escape Games
+asheville,Eats & Treats Cafe,27,28804,4.5,$,35.6514434814453,-82.5810775756836,Ice Cream & Frozen Yogurt
+asheville,Flora,37,28806,4.0,$$,35.57768,-82.581047,Florists
+asheville,Sierra Nevada Taproom,852,28732,4.5,$$,35.4308012852623,-82.5494320641165,Breweries
+asheville,Sunset Terrace,139,28804,3.0,$$$,35.6201752,-82.5428669,Seafood
+asheville,Asheville Sushi & Hibachi,45,28803,4.0,$$,35.5125,-82.525791,Sushi Bars
+asheville,Luella's Bar-B-Que,96,28803,3.5,$$,35.4845882762814,-82.5565186142921,Barbeque
+asheville,The Social,74,28805,4.0,$$,35.5878,-82.490719,American (New)
+asheville,Belly Up Truck,21,28806,4.5,$,35.580714,-82.607788,Food Trucks
+asheville,River Arts District,22,28801,4.5,$$$,35.5847,-82.56502,Local Flavor
+asheville,PennyCup Coffee,25,28801,4.5,$,35.58104,-82.5640899,Cafes
+asheville,a La CupCakes!,30,28806,4.5,$,35.5267187,-82.6094775,Bakeries
+asheville,Blue Ridge Artisanal Buffet,81,28804,3.5,$$$,35.62148,-82.54208,Breakfast & Brunch
+asheville,The Brew Pump,29,28806,4.5,$,35.5779427555091,-82.5940429642668,Bars
+asheville,Pomodoros Greek & Italian Cafe - South Asheville,78,28803,4.0,$$,35.4829729127235,-82.5370138442729,Italian
+asheville,Pon's Thai Cuisine,57,28803,4.0,$,35.4981809,-82.5174789,Thai
+asheville,China Taste,48,28806,4.0,$,35.571385,-82.582548,Chinese
+asheville,Mediterranean Restaurant,31,28801,4.0,$,35.5951927,-82.5530482,Mediterranean
+asheville,Fractals Coffee Shop and Cafe,27,28806,4.5,$,35.5787408119617,-82.5856862962246,Coffee & Tea
+asheville,Westville Pub,96,28806,3.5,$$,35.5786896,-82.5942764,Pubs
+asheville,MOD Pizza,42,28004,4.0,$,35.62786,-82.55238,Fast Food
+asheville,The Rhu,50,28801,3.5,$,35.5946267,-82.5524131,Cafes
+asheville,Baan Thai Cuisine,78,28803,4.0,$$,35.491195,-82.52227,Thai
+asheville,True Confections,50,28801,3.5,$,35.5955543518066,-82.556640625,Bakeries
+asheville,Malvern Bakery and Coffee Shop,17,28806,5.0,$,35.57441,-82.61457,Custom Cakes
+asheville,Asheville Club,16,28801,5.0,$$,35.5951800055931,-82.5544415652035,Beer Bar
+asheville,Crucible Bar,15,28801,4.5,$$,35.5860404968262,-82.5659255981445,Cocktail Bars
+asheville,Omni Grove Park Inn,64,28804,3.5,$$$$,35.6206214,-82.5423982,Wine Bars
+asheville,World Coffee Cafe,90,28801,3.0,$,35.595063535678,-82.5552221781186,Coffee & Tea
+asheville,Mack Kell's Pub & Grill,32,28805,4.0,$,35.58955,-82.5294,Pubs
+asheville,Desoto Lounge,39,28806,4.0,$,35.578156,-82.5840769,Pubs
+asheville,Salvage Station,40,28801,4.0,$$,35.5967071,-82.5727079,Bars
+asheville,Folk Art Center,39,28805,4.0,$$$,35.5927290337097,-82.4817722624167,Museums
+asheville,Great Harvest Bread,20,28803,4.5,$,35.5034977129381,-82.5236900523305,Bakeries
+asheville,Wynn's Diner,41,28806,4.0,$,35.6133174,-82.632914,Diners
+asheville,Double Crown,29,28806,4.0,$,35.5780699,-82.57881,Dive Bars
+asheville,The Soda Fountain,29,28801,4.0,$,35.595463,-82.55426,American (Traditional)
+asheville,Rise Above Deli,25,28803,4.0,$$,35.5650764,-82.5368522,Delis
+asheville,Thai Kitchen,60,28804,3.5,$$,35.6171226501465,-82.5539245605469,Thai
+asheville,Siam Thai Restaurant,45,28804,4.0,$$,35.65901,-82.58092,Thai
+asheville,The Hungry Bear Cafe,33,28806,4.0,$,35.5636787,-82.6294327,American (Traditional)
+asheville,Edison,110,28804,3.0,$$$,35.620658,-82.542276,Gastropubs
+asheville,Asheville Retrocade,40,28806,4.0,$,35.5788599772521,-82.5951368718967,Arcades
+asheville,Hemingway's Cuba Restaurant & Bar,69,28801,3.5,$$,35.5955,-82.55593,Cuban
+asheville,HomeGrown,20,28801,4.5,$$,35.567315,-82.57412,American (Traditional)
+asheville,Wild Wing Cafe,85,28801,3.5,$$,35.589477,-82.551795,American (New)
+asheville,Travinia Italian Kitchen & Wine Bar,112,28803,3.5,$$,35.48433,-82.55755,Italian
+asheville,Banks Ave Bar,37,28801,4.0,$$,35.5890742461795,-82.5531600130265,Bars
+asheville,Roux,42,28803,4.0,$$,35.48431,-82.5571,Breakfast & Brunch
+asheville,Mamas & Beer,51,28805,3.5,$$,35.5864185801151,-82.4832632135807,Mexican
+asheville,LongHorn Steakhouse,42,28805,4.0,$$,35.591696,-82.531829,Steakhouses
+asheville,AVL Tacos and Taps,41,28804,4.0,$,35.6225987388576,-82.5543349608779,Tacos
+asheville,Carrabba's Italian Grill,56,28805,3.5,$$,35.58637,-82.5256,Italian
+asheville,Taqueria Fast,33,28804,4.0,$,35.6483116,-82.5808792,Mexican
+asheville,Lennys Subs,42,28803,4.0,$,35.5736694,-82.5461731,Sandwiches
+asheville,Brixx Wood Fired Pizza,79,28803,3.5,$$,35.485292,-82.556294,Pizza
+asheville,TreeRock Social Cider House,11,28803,5.0,$$,35.57108,-82.54474,Cideries
+asheville,The Odditorium,23,28806,4.5,$,35.581879,-82.60402,Dive Bars
+asheville,Marble Slab Creamery,31,28801,4.0,$,35.5941887,-82.5513229,Ice Cream & Frozen Yogurt
+asheville,Cafe Yuzu,10,28801,5.0,$$,35.5761237,-82.5670858,Desserts
+asheville,YoLo Asheville,25,28804,4.0,$,35.61585,-82.55449,Ice Cream & Frozen Yogurt
+asheville,Tin Can Pizzeria,16,28801,4.5,$,35.581919,-82.564245,Pizza
+asheville,Apollo Flame Bistro - Hendersonville,55,28803,3.5,$,35.55328,-82.53925,Greek
+asheville,Pillar Rooftop Bar,44,28801,3.5,$$,35.596945146426,-82.5460818851347,Cocktail Bars
+asheville,Claddagh Restaurant And Pub,58,28801,3.5,$,35.5945510864258,-82.5551986694336,Irish Pub
+asheville,Root Down Food Truck,21,28787,4.5,$,35.598461151123,-82.5531387329102,Food Trucks
+asheville,The Hop Ice Creamery,23,28806,4.0,$,35.5809535426781,-82.5734261784804,Ice Cream & Frozen Yogurt
+asheville,Stoney Knob Cafe,225,28787,4.5,$$,35.6777299,-82.57575,Greek
+asheville,One Stop at Asheville Music Hall,16,28801,4.5,$,35.5952,-82.55312,American (New)
+asheville,Outback Steakhouse,57,28805,3.5,$$,35.59715,-82.53258,Steakhouses
+asheville,Bun Intended Food Truck,16,28801,4.5,$,35.5962,-82.55472,Thai
+asheville,Post 70 Indulgence Bar,17,28805,4.5,$$,35.58706,-82.48682,Cocktail Bars
+asheville,Bistro at Biltmore,46,28803,3.5,$$$,35.541517,-82.552521,American (New)
+asheville,Five Guys,27,28803,4.0,$,35.503414,-82.523712,Fast Food
+asheville,Little Jumbo,11,28801,5.0,$$,35.60238,-82.5569,Cocktail Bars
+asheville,Gan Shan West,40,28806,3.5,$$,35.57791,-82.57508,Ramen
+asheville,Casablanca Cigar Bar,15,28803,4.5,$$,35.56761,-82.54329,Tobacco Shops
+asheville,Olive Garden Italian Restaurant,49,28805,3.5,$$,35.59266,-82.53162,Italian
+asheville,151 Boutique Bar,14,28801,4.5,$$,35.596645,-82.558509,Bars
+asheville,Rise 'n Shine,90,28804,3.0,$,35.62074,-82.55491,Breakfast & Brunch
+asheville,Green Sage Cafe - Westgate,62,28806,3.5,$$,35.5919912951347,-82.5756749510765,Coffee & Tea
+asheville,Creekside Taphouse,74,28805,3.0,$$,35.591895,-82.505011,Barbeque
+asheville,P.F. Chang's,94,28803,3.0,$$,35.4847003,-82.5540672,Chinese
+asheville,Which Wich,30,28803,4.0,$,35.48433,-82.55755,Sandwiches
+asheville,Copper River Grill,75,28803,3.5,$$,35.52506,-82.52913,Desserts
+asheville,Cook Out,39,28803,3.5,$,35.5873260498047,-82.5943908691406,Fast Food
+asheville,El Chapala Mexican Restaurant,49,28806,3.5,$,35.56003,-82.63458,Mexican
+asheville,Asheville Coffee Roasters,21,28804,4.0,$,35.64137,-82.57871,Coffee & Tea
+asheville,Wild Wok Asian Bistro,63,28805,3.5,$$,35.5818022869425,-82.5263414705002,Chinese
+asheville,Haywood Lounge,24,28806,4.0,$,35.5784683227539,-82.5876083374023,Pubs
+asheville,Jason's Deli,32,28806,3.5,$,35.590833508444,-82.57468521595,Delis
+asheville,The Lazy Diamond,36,28801,3.5,$,35.5981598,-82.5537186,Dive Bars
+asheville,Iannucci's Pizzeria & Italian Restaurant,61,28803,3.5,$$,35.488464,-82.524742,Italian
+asheville,Asiana Grand Buffet,83,28803,3.0,$$,35.49039,-82.52233,Buffets
+asheville,Dragon China,26,28806,4.0,$,35.58274,-82.6036699,Chinese
+asheville,Tastee Freeze,20,28806,4.0,$,35.5872383,-82.5956573,Burgers
+asheville,Starbucks,25,28801,4.0,$$,35.6014,-82.547065,Coffee & Tea
+asheville,Starbucks,25,28803,4.0,$$,35.566477,-82.544743,Coffee & Tea
+asheville,Oriental Pavillion,79,28806,3.0,$,35.59213,-82.57556,Chinese
+asheville,Chicken Salad Chick of Asheville,29,28805,4.0,$,35.5832361,-82.5238714,Salad
+asheville,Rockys Hot Chicken Shack South,228,28704,4.5,$$,35.473439,-82.515554,Chicken Wings
+asheville,Cascade Lounge,10,28806,4.5,$$,35.5670311,-82.5742218,Lounges
+asheville,Asheville Pizza Company,24,28803,4.0,$$,35.502331,-82.52288,Pizza
+asheville,Yao Buffet Sushi Grill,62,28806,3.0,$$,35.565314,-82.6296642,Chinese
+asheville,Takosushi,46,28801,3.5,$$,35.586879,-82.554136,Sushi Bars
+asheville,Pacific Pagoda,45,28704,3.5,$$,35.50186,-82.52329,Chinese
+asheville,Moe's Original Bar B Que,70,28804,4.5,$$,35.6403923034668,-82.5791397094727,Barbeque
+asheville,Hookah Joe's,24,28801,4.0,$$,35.5915604,-82.5552979,Hookah Bars
+asheville,Tunnel Road Tap Haus,20,28805,4.0,$,35.5828516,-82.5250484,American (Traditional)
+asheville,Ay Caramba Mexican Grill & Bar,22,28806,4.0,$,35.6106222420931,-82.6284078508615,Mexican
+asheville,Bruegger's Bagels,33,28804,3.5,$,35.6222229003906,-82.5542144775391,Bagels
+asheville,Broadway's,26,28801,3.5,$,35.59886,-82.55387,Dive Bars
+asheville,Capella on 9,25,28801,3.5,$$,35.5958849062718,-82.5514975190162,Tapas/Small Plates
+asheville,The Mothlight,20,28806,4.0,$,35.577661,-82.591833,Music Venues
+asheville,Mosaic Cafe,24,28803,4.0,$,35.48624,-82.55429,Coffee & Tea
+asheville,Cheddar's Scratch Kitchen,65,28805,3.0,$$,35.57629,-82.51253,Comfort Food
+asheville,The Newbridge Cafe,20,28804,4.0,$,35.64727,-82.58111,American (Traditional)
+asheville,Neo Burrito,107,28803,3.0,$,35.48612,-82.554991,Mexican
+asheville,The Beehive Coffee Bar,94,28704,5.0,$,35.47474,-82.51521,Coffee & Tea
+asheville,Nicks Grill,33,28804,3.5,$,35.637429,-82.574327,Diners
+asheville,Bruegger's Bagels,35,28803,3.5,$,35.564224,-82.541854,Bagels
+asheville,Library Lounge at Biltmore Inn,29,28803,4.0,$$,35.55773,-82.58067,American (New)
+asheville,Hickory Tavern,101,28803,2.5,$$,35.485317997716,-82.556405884192,Sports Bars
+asheville,Neo Burrito,49,28806,3.0,$,35.5826930205778,-82.6037979125977,Mexican
+asheville,Papa's Pizza,28,28806,4.0,$$,35.608181,-82.6264725,Pizza
+asheville,Gondolier,50,28805,3.5,$$,35.5840841215428,-82.4682672124053,Italian
+asheville,Charlotte Street Grill & Pub,35,28801,3.5,$$,35.60494,-82.54625,Pubs
+asheville,Fuddruckers,38,28801,3.0,$,35.6034202575684,-82.5473937988281,Burgers
+asheville,Cracker Barrel Old Country Store,32,28805,3.5,$,35.5979699,-82.53397,Breakfast & Brunch
+asheville,The Creamery At Biltmore Estates,19,28803,4.0,$,35.555628458478,-82.583327293396,Ice Cream & Frozen Yogurt
+asheville,THE BLOCK off biltmore,13,28801,4.0,$$,35.59382,-82.55008,Pubs
+asheville,Whit's Frozen Custard,12,28803,4.5,$,35.50305,-82.52351,Ice Cream & Frozen Yogurt
+asheville,Out of the Blue Peruvian Fusion Cuisine,7,28804,5.0,$$,35.6232528686523,-82.5537719726563,Food Trucks
+asheville,Izzy's Coffee Den,22,28806,3.5,$,35.58103,-82.6025,Coffee & Tea
+asheville,Sugar and Snow Gelato,8,28806,5.0,$,35.512053,-82.600345,Gelato
+asheville,Waffle House,23,28805,3.5,$,35.587791,-82.529798,Diners
+asheville,McDonald's,62,28803,2.5,$,35.5675330861543,-82.544411560557,Fast Food
+asheville,Urban Burrito,42,28804,3.0,$,35.6207389831543,-82.5549087524414,Mexican
+asheville,J & S Cafeteria,20,28803,4.0,$,35.5698243335134,-82.5080784549087,Cafes
+asheville,Mikado Japanese Steak House,31,28805,3.5,$$,35.59584,-82.53375,Japanese
+asheville,Waffle House,20,28801,4.0,$,35.530769,-82.605144,Diners
+asheville,Pelican's Snoballs,8,28803,5.0,$,35.5108723145778,-82.5189283333333,Shaved Ice
+asheville,Okie Dokie's Smokehouse,172,28778,4.5,$,35.60043,-82.4008999,Barbeque
+asheville,Huddle House,13,28803,4.0,$,35.55634,-82.5378,Diners
+asheville,Dunkin' Donuts,13,28806,4.0,$,35.5605392456055,-82.637321472168,Coffee & Tea
+asheville,Bean Werks Coffee & Tea,16,28806,4.0,$,35.57827,-82.5936,Coffee Roasteries
+asheville,Jersey Mike's Subs,15,28805,4.0,$,35.57504,-82.51873,Sandwiches
+asheville,The Casual Pint - Asheville,7,28803,5.0,$$,35.50186,-82.52329,Beer Bar
+asheville,White Duck Taco Shop,77,28704,4.5,$,35.4846505215929,-82.5328749418259,Tacos
+asheville,Cracker Barrel Old Country Store,42,28806,3.0,$,35.5619961421599,-82.6363093223722,American (Traditional)
+asheville,Harbor Inn Seafood - Asheville,46,28806,3.0,$,35.52755,-82.60601,Seafood
+asheville,The Well-Bred Bakery & Cafe,140,28787,4.5,$$,35.69729,-82.56066,Bakeries
+asheville,Noble Kava,7,28801,4.5,$,35.585786,-82.551259,Tea Rooms
+asheville,Dickey's Barbecue Pit,21,28803,4.0,$$,35.5124516607859,-82.5249572046414,Barbeque
+asheville,Le Bon Café,7,28803,5.0,$,35.5633065,-82.5289998,Coffee & Tea
+asheville,Koreana Korean Restaurant,107,28704,4.5,$$,35.451571,-82.52401,Korean
+asheville,Cold Stone Creamery,15,28803,4.0,$,35.4851266377699,-82.5570118438275,Ice Cream & Frozen Yogurt
+asheville,Bellagio Bistro,33,28804,3.0,$$,35.646217,-82.58002,Italian
+asheville,Cocula Mexican Restaurant,44,28805,3.0,$,35.58417,-82.4716399,Mexican
+asheville,Buffalo Wild Wings,56,28805,2.5,$$,35.59769,-82.535,American (Traditional)
+asheville,Tiger Mountain,20,28801,3.5,$,35.5986099,-82.5538788,Dive Bars
+asheville,Burgerworx,9,28803,4.5,$,35.523019,-82.528796,Burgers
+asheville,Barberitos,24,28803,3.5,$,35.501058,-82.521359,Mexican
+asheville,Jimmy John's,31,28801,3.0,$,35.5944,-82.55182,Sandwiches
+asheville,El Chapala Mexican Restaurant,27,28803,3.0,$,35.5702896,-82.5452194,Mexican
+asheville,Rita's Italian Ice,6,28806,5.0,$,35.590328,-82.581993,Desserts
+asheville,Celebrity's Hotdogs,28,28806,3.5,$,35.513256072998,-82.6021728515625,Hot Dogs
+asheville,Cook Out,26,28805,3.5,$,35.5848918191374,-82.5279235839844,Fast Food
+asheville,Glass Onion,96,28787,4.5,$$,35.696998,-82.560659,Italian
+asheville,China Wok,27,28804,3.5,$,35.6226119995117,-82.5536956787109,Chinese
+asheville,Shogun Buffet Hibachi Grill,48,28806,3.0,$$,35.52476,-82.60576,Chinese
+asheville,The Sweet Escape,10,28803,4.0,$,35.48528,-82.55368,Ice Cream & Frozen Yogurt
+asheville,Atlanta Bread,22,28803,3.5,$,35.55393,-82.53849,Bakeries
+asheville,Baked Pie Company,80,28704,4.5,$$,35.484991,-82.526728,Bakeries
+asheville,W XYZ Bar,10,28801,4.0,$$,35.59301,-82.5513,Venues & Event Spaces
+asheville,Chick-fil-A,11,28805,4.0,$,35.579037,-82.525646,Fast Food
+asheville,The Local Joint,146,28730,4.0,$,35.525291,-82.425067,Diners
+asheville,Neo Burrito,40,28805,3.0,$,35.58307,-82.52354,Mexican
+asheville,Blue Mountain Pizza,149,28787,4.0,$$,35.698228,-82.560205,Italian
+asheville,Sly Grog Lounge,6,28801,4.5,$,35.5941,-82.56268,Music Venues
+asheville,Red Lobster,36,28805,3.0,$$,35.591384,-82.531013,Seafood
+asheville,Chick-fil-A,25,28801,3.5,$,35.60483954,-82.55355385,Fast Food
+asheville,Native Kitchen & Social Pub,113,28778,4.5,$$,35.600861,-82.397515,Gastropubs
+asheville,TGI Fridays,51,28803,2.5,$$,35.5652395288411,-82.5430062793498,American (Traditional)
+asheville,Frank's Roman Pizza,15,28804,3.5,$,35.6413689,-82.5787125,Pizza
+asheville,Boston Market,13,28803,4.0,$,35.51119,-82.5260799,Comfort Food
+asheville,Doc Brown's BBQ,62,28715,4.5,$$,35.54505,-82.6771512,Food Trucks
+asheville,The Fireplace Restaurant,24,28804,3.5,$$,35.6572304,-82.5791702,Seafood
+asheville,Moe's Southwest Grill,11,28807,4.0,$,35.61131,-82.55561,Tex-Mex
+asheville,El Charro Mexican Restaurant,20,28803,3.5,$$,35.5062799,-82.52384,Mexican
+asheville,The Chop House,48,28801,2.5,$$$,35.599231,-82.55083,Steakhouses
+asheville,O'Charley's Restaurant & Bar,26,28805,3.0,$$,35.590502,-82.528827,American (Traditional)
+asheville,Waffle House,12,28806,4.0,$,35.5608718,-82.6323342,Breakfast & Brunch
+asheville,The Prospect,25,28801,3.0,$,35.5887680053711,-82.5540084838867,Bars
+asheville,Jonny Mac's Lowcountry Grille & BBQ,95,28732,4.5,$,35.4286769554073,-82.502205977323,Cajun/Creole
+asheville,Writer's Bistro,13,28801,3.5,$$$$,35.597656,-82.550102,American (New)
+asheville,Pepperoni's Gourmet Pizza - East Asheville,22,28805,3.5,$,35.5866645108223,-82.4887502592801,Pizza
+asheville,Bean Vegan Cuisine,89,28704,4.0,$$,35.4809833725603,-82.5250838149113,Vegan
+asheville,Creperie and Cafe,96,28787,4.5,$,35.7002468,-82.5603118,Coffee & Tea
+asheville,Elena's Mexican Grill,30,28704,3.0,$$,35.4608803,-82.5124283,Mexican
+asheville,Panera Bread,36,28803,3.0,$$,35.5021,-82.524066,Sandwiches
+asheville,Allgood Coffee,48,28787,4.5,$,35.69616,-82.560093,Coffee & Tea
+asheville,La Carreta,29,28814,3.0,$,35.49705,-82.52079,Mexican
+asheville,Ivory Road Cafe & Kitchen,42,28704,4.5,$$,35.47325,-82.57901,Cafes
+asheville,Chipotle Mexican Grill,45,28803,3.0,$,35.5038719,-82.5240707,Mexican
+asheville,Happy Hill Restaurant,15,28806,3.5,$$,35.58159,-82.6072,Breakfast & Brunch
+asheville,Cork and Keg Bar,6,28801,4.5,$$,35.5940208,-82.5553207,Wine Bars
+asheville,Blue Sky Cafe,105,28732,4.0,$,35.42752,-82.50243,American (Traditional)
+asheville,Dunkin' Donuts,9,28804,4.0,$,35.613098,-82.554748,Donuts
+asheville,Los Nenes Bakery,6,28806,4.5,$,35.582737,-82.603676,Mexican
+asheville,O.Henry's,23,28801,3.0,$,35.59493,-82.5617,Gay Bars
+asheville,Adam Dalton Distillery,9,28801,4.0,$,35.586296,-82.55204,Bars
+asheville,Moe's Southwest Grill,20,28803,3.0,$,35.55343,-82.538486,Mexican
+asheville,Whisk AVL,4,28806,5.0,$$,35.578681639149,-82.5942961871624,Cupcakes
+asheville,Grovewood Village,6,28804,4.0,$$$$,35.6213627,-82.5446855,Museums
+asheville,Cicis,14,28805,3.5,$,35.5809086337178,-82.521109431982,Pizza
+asheville,Momentum Gallery,4,28801,5.0,$,35.59573,-82.55275,Art Galleries
+asheville,La Carreta,24,28804,3.0,$$,35.63728,-82.57167,Mexican
+asheville,IHOP,20,28805,3.0,$$,35.5853,-82.52845,Breakfast & Brunch
+asheville,New Mountain Asheville,15,28801,3.0,$$,35.5945282,-82.5588837,Music Venues
+asheville,Asian Wok,21,28806,3.0,$,35.6005899,-82.62355,Chinese
+asheville,Chick-fil-A,14,28803,3.5,$,35.505135,-82.524182,Fast Food
+asheville,Timo's House,16,28801,3.0,$,35.5943916,-82.5518378,Dance Clubs
+asheville,Circle B Ranch BBQ,63,28732,4.5,$,35.438064,-82.535841,Barbeque
+asheville,Thirsty Monk Brewery & Pub,68,28803,4.0,$$,35.4859559,-82.5549761,Breweries
+asheville,Asaka,22,28803,3.0,$,35.56901,-82.54486,Japanese
+asheville,Fairview Tavern,15,28803,3.0,$,35.56585,-82.50897,Cheesesteaks
+asheville,Bojangles,8,28806,4.0,$,35.5864716,-82.589653,Fast Food
+asheville,Krispy Kreme,18,28806,3.0,$,35.58655,-82.58926,Donuts
+asheville,Mountain Mojo,30,28730,4.5,$,35.546107,-82.448258,Cafes
+asheville,Asheville Cake,3,28806,5.0,$,35.5780334472656,-82.5881576538086,Bakeries
+asheville,Starbucks,9,28806,3.5,$$,35.586698,-82.587045,Coffee & Tea
+asheville,McAlister's Deli,21,28805,2.5,$,35.582389831543,-82.5260391235352,Delis
+asheville,IHOP,16,28806,3.0,$,35.5615,-82.6335,Breakfast & Brunch
+asheville,High Five Coffee - Riverside,10,28804,5.0,$,35.63475,-82.59922,Coffee & Tea
+asheville,Starbucks,14,28805,3.0,$$,35.580738,-82.526077,Coffee & Tea
+asheville,Beer City Bicycles,11,28804,4.5,$$,35.6205878,-82.5762502,Bikes
+asheville,Pull Up at the Peel Deli and Grill,3,28801,5.0,$,35.59138,-82.55113,Sandwiches
+asheville,Craft Centric Taproom & Bottleshop,18,28704,5.0,$,35.479411,-82.546073,Beer Bar
+asheville,Applebee's Grill + Bar,22,28806,2.5,$$,35.56124,-82.63462,American (Traditional)
+asheville,Jersey Mike's Subs,9,28806,3.5,$$,35.58287,-82.603476,Sandwiches
+asheville,Mary's Burritos & Beer,39,28704,4.5,$,35.4643516540527,-82.5770111083984,Mexican
+asheville,Milk & Honey Organic cafe,28,28704,4.5,$$,35.482249,-82.53717,Juice Bars & Smoothies
+asheville,Overlook Restaurant,7,28806,3.5,$$,35.5945105803004,-82.5804134085774,Lounges
+asheville,Peaberry Press - Coffee & Smoothie Bar,6,28803,4.0,$$,35.5730133056641,-82.5032424926758,Coffee & Tea
+asheville,Brooklyn Bro's,75,28704,4.0,$$,35.462201,-82.512028,Italian
+asheville,Breakfast Shoppe,28,28778,4.5,$,35.5994453430176,-82.4038925170898,Comfort Food
+asheville,Ryan's,26,28806,2.5,$$,35.52456,-82.6052034,Buffets
+asheville,Starbucks,12,28803,3.5,$$,35.523625,-82.529053,Coffee & Tea
+asheville,Yama Japanese Steakhouse,13,28806,3.0,$$,35.59016,-82.58272,Japanese
+asheville,Arby's,9,28806,3.5,$,35.560733618548,-82.633190224667,Fast Food
+asheville,Waffle House,11,28805,3.5,$,35.58459,-82.46242,Diners
+asheville,Salsarita's Fresh Mexican Grill,18,28803,3.0,$$,35.4830091,-82.5539912,Mexican
+asheville,Soba Sushi and Noodles,67,28787,4.0,$$,35.69911,-82.56084,Sushi Bars
+asheville,New 1 China,13,28806,3.0,$,35.5882759094238,-82.5858688354492,Chinese
+asheville,Chili's,19,28805,2.5,$$,35.58467,-82.52772,Bars
+asheville,Burger King,7,28806,3.5,$,35.5852318,-82.6012497,Burgers
+asheville,Tamarind Thai Cusine,57,28704,4.0,$$,35.4443232548331,-82.537016195811,Thai
+asheville,Rolled & Roasted,5,28806,4.5,$,35.5809,-82.526672,Coffee & Tea
+asheville,Starbucks,9,28803,3.5,$$,35.482783,-82.554696,Coffee & Tea
+asheville,Twisted Laurel,74,28787,3.5,$$,35.69607,-82.56002,Greek
+asheville,Ben's Penny Mart,3,28801,4.5,$,35.5911944889431,-82.5558366626501,Dive Bars
+asheville,Yoshida Express,12,28805,3.0,$,35.586341,-82.50988,Sushi Bars
+asheville,Botanas & Beer,25,28715,4.0,$,35.5474619307654,-82.6551604512065,Mexican
+asheville,JK's Kitchen,24,28704,4.5,$,35.484851,-82.527654,Breakfast & Brunch
+asheville,Frazier's Tavern,3,28801,4.5,$,35.6124559657573,-82.5549302554525,Dive Bars
+asheville,French Fryz,51,28704,4.0,$,35.48405,-82.52568,American (Traditional)
+asheville,El Paraiso,17,28806,2.5,$,35.5821876525879,-82.604248046875,Mexican
+asheville,Bojangles,18,28801,2.5,$,35.60264,-82.55288,Fast Food
+asheville,Acropolis Pizza,100,28704,3.5,$$,35.4524026346288,-82.524801492691,Pizza
+asheville,Arby's,11,28805,3.0,$,35.584252,-82.468892,Fast Food
+asheville,Black Mountain Ciderworks + Meadery,30,28711,4.5,$,35.6086303,-82.3597681,Breweries
+asheville,Ingles,8,28806,3.0,$$,35.53074,-82.607,Grocery
+asheville,El Lemon,28,28778,4.0,$,35.594547,-82.425766,Mexican
+raleigh,Bida Manda,1257,27601,4.5,$$,35.7772492676183,-78.6367019169414,Laotian
+raleigh,The Cowfish Sushi Burger Bar,1301,27609,4.5,$$,35.837258785475,-78.6401524459807,Sushi Bars
+raleigh,The Pit,2508,27601,4.0,$$,35.77605,-78.64472,Barbeque
+raleigh,Guasaca,922,27607,4.5,$,35.814575,-78.697036,Venezuelan
+raleigh,Beasley's Chicken & Honey,1474,27601,4.0,$$,35.7770159317825,-78.6381587254906,Southern
+raleigh,The Fiction Kitchen,509,27601,4.5,$$,35.7745972,-78.6438293,Vegan
+raleigh,Brewery Bhavana,628,27601,4.5,$$,35.777406,-78.636914,Dim Sum
+raleigh,Bad Daddy's Burger Bar,574,27604,4.5,$$,35.7885257790867,-78.6398015538498,Burgers
+raleigh,Salt & Lime Cabo Grill,695,27609,4.5,$$,35.8650954206401,-78.6191403403193,Seafood
+raleigh,Lucettegrace,331,27601,4.5,$$,35.7773121093891,-78.6401014167119,Desserts
+raleigh,Mami Noras Rotisserie Chicken,544,27608,4.5,$,35.81373,-78.62714,Peruvian
+raleigh,Second Empire Restaurant And Tavern,408,27603,4.5,$$$,35.780739,-78.644823,American (New)
+raleigh,Neomonde Mediterranean Raleigh,454,27607,4.5,$,35.793248,-78.690182,Mediterranean
+raleigh,Sitti,686,27601,4.0,$$,35.77839,-78.63795,Middle Eastern
+raleigh,Tazza Kitchen Cameron Village,371,27605,4.5,$$,35.790501,-78.658622,Pizza
+raleigh,Poole's,767,27601,4.0,$$,35.7747192382812,-78.6423034667969,American (New)
+raleigh,Boxcar Bar + Arcade,506,27601,4.5,$,35.77603,-78.64499,Bars
+raleigh,Ajisai Japanese Fusion,398,27605,4.5,$$,35.79012,-78.659671,Japanese
+raleigh,J Betski's,303,27604,4.5,$$,35.7892985371783,-78.640372898815,German
+raleigh,Jubala Village Coffee,435,27615,4.5,$,35.8950901451154,-78.6223246226575,Coffee & Tea
+raleigh,The Morning Times,468,27601,4.0,$,35.7781155,-78.6387547,Coffee & Tea
+raleigh,Boulted Bread,202,27603,4.5,$,35.7725625656634,-78.6487344662689,Bakeries
+raleigh,Stanbury,270,27604,4.5,$$$,35.7931604,-78.6355143,American (New)
+raleigh,Gonza Tacos y Tequila,492,27615,4.0,$$,35.8859701,-78.6605752,Mexican
+raleigh,North Carolina Museum of Natural Sciences,191,27601,4.5,$,35.7821927736662,-78.6392365408044,Museums
+raleigh,Sola Coffee Cafe,387,27615,4.5,$,35.88523,-78.66003,Coffee & Tea
+raleigh,The Angus Barn,926,27617,4.0,$$$,35.8991189470065,-78.7636871643486,Steakhouses
+raleigh,Metro Diner,414,27615,4.5,$$,35.870213,-78.622514,American (Traditional)
+raleigh,Chuck's,618,27601,4.0,$$,35.7771027517741,-78.6381538805309,Burgers
+raleigh,Big Ed's City Market Restaurant,422,27601,4.0,$,35.77604,-78.63598,Breakfast & Brunch
+raleigh,Sono Sushi Restaurant Bar,397,27601,4.0,$$,35.7753358636598,-78.6396251750241,Japanese
+raleigh,Relish Craft Kitchen & Bourbon Bar,559,27612,4.0,$$,35.858861,-78.6808852,Southern
+raleigh,C Grace,228,27603,4.5,$$,35.7854273219889,-78.6474707111075,Jazz & Blues
+raleigh,Tupelo Honey,793,27605,4.0,$$,35.7901743551209,-78.6632509711987,Breakfast & Brunch
+raleigh,Trophy Brewing Company,433,27603,4.0,$$,35.779747,-78.6535339,Bars
+raleigh,Saint Jacques,218,27609,4.5,$$$,35.866096,-78.618364,French
+raleigh,Foundation,257,27601,4.5,$$,35.7777807281532,-78.6390013095093,Cocktail Bars
+raleigh,Pho Far East,376,27604,4.0,$$,35.8363980987574,-78.5833253204792,Vietnamese
+raleigh,Taverna Agora,455,27603,4.0,$$,35.78101,-78.64442,Greek
+raleigh,City Market Sushi,190,27601,4.5,$$,35.7764897,-78.6355942,Sushi Bars
+raleigh,Sosta Café,172,27601,4.5,$,35.775453363187,-78.637626025473,Coffee & Tea
+raleigh,Glenwood Grill,264,27608,4.5,$$,35.8150465680023,-78.6610901355743,American (New)
+raleigh,Escazú Artisan Chocolates,141,27604,4.5,$$,35.79339467331,-78.635412747012,Chocolatiers & Shops
+raleigh,18 Seaboard,427,27604,4.0,$$,35.7893276236175,-78.6396870126952,Southern
+raleigh,Mandolin,291,27608,4.0,$$$,35.80904,-78.65524,Southern
+raleigh,Jose and Sons,441,27601,4.0,$$,35.7751687442644,-78.6447423100471,American (New)
+raleigh,Hayes Barton Café & Dessertery,235,27608,4.5,$$,35.80454,-78.64631,American (Traditional)
+raleigh,Kai Sushi and Sake Bar,305,27615,4.5,$$,35.886173,-78.660438,Japanese
+raleigh,Amorino Gelato,175,27601,4.5,$$,35.775672,-78.6376862,Desserts
+raleigh,Bittersweet,264,27601,4.5,$$,35.7768987957,-78.6386073514511,Coffee & Tea
+raleigh,Centro,340,27601,4.0,$$,35.7792701721191,-78.6384429931641,Mexican
+raleigh,David's Dumpling & Noodle Bar,472,27607,4.0,$$,35.785851541761,-78.6614256310374,Asian Fusion
+raleigh,Coquette Brasserie,420,27609,4.0,$$,35.8378724278881,-78.642446506607,Wine Bars
+raleigh,Red Pepper Asian,209,27610,4.5,$$,35.8016037297308,-78.5658198761616,Malaysian
+raleigh,Waraji Japanese Restaurant,403,27612,4.0,$$,35.8593550671142,-78.7124408362804,Japanese
+raleigh,Flying Biscuit Cafe - Raleigh,566,27605,4.0,$$,35.7895915952155,-78.6598751410697,American (Traditional)
+raleigh,Oak City Meatball Shoppe,322,27601,4.0,$$,35.7754725046547,-78.6371327566189,Italian
+raleigh,Flying Saucer Draught Emporium,402,27601,4.0,$$,35.7799118994465,-78.6448489014933,American (Traditional)
+raleigh,Irregardless Cafe & Catering,457,27603,4.0,$$,35.78118,-78.65603,American (New)
+raleigh,Taqueria El Toro,247,27603,4.5,$,35.7308158874512,-78.657096862793,Mexican
+raleigh,Mona Pita,197,27616,4.5,$,35.8584037,-78.5805677,Mediterranean
+raleigh,Seoul Garden Restaurant,346,27604,4.0,$$,35.849052806532,-78.602974194118,Korean
+raleigh,The Raleigh Times Bar,624,27601,3.5,$$,35.7781388809935,-78.6386299171509,American (New)
+raleigh,Soo Café,237,27604,4.5,$$,35.8171559947175,-78.5962332235565,Korean
+raleigh,Yellow Dog Bread Company,153,27604,4.5,$,35.7903586884859,-78.6346706354996,Coffee & Tea
+raleigh,DeMo's Pizzeria & Deli,199,27603,4.5,$,35.783627,-78.647144,Pizza
+raleigh,Peri Brothers Pizza,166,27615,4.5,$,35.879901,-78.647028,Pizza
+raleigh,Treat,139,27601,4.5,$,35.7765,-78.63641,Ice Cream & Frozen Yogurt
+raleigh,Lilly's Pizza,587,27608,3.5,$$,35.8051332553729,-78.6466635456331,Pizza
+raleigh,Raleigh Raw,158,27601,4.5,$$,35.7781376,-78.6394579,Juice Bars & Smoothies
+raleigh,Plates Neighborhood Kitchen,252,27603,4.0,$$,35.7843548128447,-78.647630768314,Breakfast & Brunch
+raleigh,Chubby's Tacos,383,27607,4.0,$,35.8171918,-78.6938651,Mexican
+raleigh,Sassool,236,27615,4.5,$$,35.904201,-78.656772,Mediterranean
+raleigh,House of Hops,108,27612,5.0,$$,35.86287,-78.71372,Beer Bar
+raleigh,Bella Monica,417,27612,4.0,$$,35.8253816405571,-78.706955909729,Italian
+raleigh,Living Kitchen,157,27601,4.5,$$,35.7733573,-78.6392778,Vegan
+raleigh,42nd Street Oyster Bar & Seafood Grill,464,27603,4.0,$$,35.7831199,-78.64639,Seafood
+raleigh,The Remedy Diner,497,27603,4.0,$$,35.7822844,-78.6560945,Sandwiches
+raleigh,Poke Burri Raleigh,139,27615,4.5,$$,35.8731553,-78.6225222,Poke
+raleigh,Seasons 52,220,27612,4.0,$$,35.840782,-78.679651,American (New)
+raleigh,New World Cafe,262,27612,4.0,$,35.8603739893191,-78.7046134267209,Coffee & Tea
+raleigh,Yard House,505,27609,3.5,$$,35.83705954284,-78.6396388635339,Bars
+raleigh,Gravy,464,27601,4.0,$$,35.7785110862489,-78.6380541815542,Italian
+raleigh,Vivo Ristorante Pizzeria,189,27615,4.5,$$,35.8813029276822,-78.6455537656762,Italian
+raleigh,soca raleigh,195,27605,4.5,$$,35.7892355297709,-78.6625375274577,Caribbean
+raleigh,BREW Coffee Bar,139,27604,4.5,$,35.78861,-78.64017,Coffee & Tea
+raleigh,Garland,226,27601,4.0,$$,35.777135,-78.639802,Asian Fusion
+raleigh,FRESH. Local Ice Cream,200,27612,4.5,$,35.8542571,-78.700673,Ice Cream & Frozen Yogurt
+raleigh,Crawford & Son,147,27604,4.5,$$$,35.78882,-78.63405,American (New)
+raleigh,Vivace,259,27609,4.0,$$,35.8388639292319,-78.6447072029114,Italian
+raleigh,The Oak,264,27607,4.0,$$,35.8152262,-78.6971891,American (New)
+raleigh,Humble Pie,297,27603,4.0,$$,35.776317,-78.644975,American (New)
+raleigh,Capital Club 16,221,27601,4.0,$$,35.7770482987727,-78.640130534236,American (Traditional)
+raleigh,Fu Kee Express,193,27616,4.5,$,35.8711462126417,-78.5787916890415,Chinese
+raleigh,Mellow Mushroom,262,27605,4.0,$$,35.78829,-78.64764,Pizza
+raleigh,Winston's Grille,247,27615,4.0,$$,35.8696479797363,-78.6216278076172,American (Traditional)
+raleigh,First Watch,287,27612,4.0,$$,35.85532,-78.70249,American (Traditional)
+raleigh,Gonza Tacos Y Tequila,193,27607,4.5,$$,35.786750793457,-78.6633758544922,Mexican
+raleigh,The Smashed Waffle Company,201,27607,4.5,$,35.78758,-78.66618,Waffles
+raleigh,Clouds Brewing,309,27603,4.0,$$,35.78239,-78.64537,Breweries
+raleigh,Tasty Beverage Company,102,27601,4.5,$$,35.77563,-78.64455,"Beer, Wine & Spirits"
+raleigh,Pizza La Stella,292,27601,4.0,$$,35.7776171988233,-78.6390610234748,Pizza
+raleigh,Trolley Pub Raleigh,119,27601,4.5,$$,35.7755532875648,-78.6444088337517,Pubs
+raleigh,Duck Donuts,130,27613,4.5,$,35.900468760327,-78.6822318547699,Donuts
+raleigh,The Wine Feed,78,27603,4.5,$$,35.7875089298035,-78.6472164637543,"Beer, Wine & Spirits"
+raleigh,MoJoe's Burger Joint,286,27603,4.0,$,35.7884941101074,-78.6469268798828,Burgers
+raleigh,Gino's Pizza,171,27612,4.5,$,35.8568722,-78.7031503,Pizza
+raleigh,The Station,306,27604,4.0,$$,35.789169,-78.63456,Salad
+raleigh,The Rockford,225,27603,4.0,$$,35.7847722516483,-78.6472090949938,Sandwiches
+raleigh,Vidrio,230,27603,4.0,$$$,35.78656,-78.64701,Mediterranean
+raleigh,First Watch,222,27616,4.0,$$,35.8711914815403,-78.5789070638931,Breakfast & Brunch
+raleigh,Pressed By Spanglish,255,27614,4.0,$,35.90619,-78.59248,Sandwiches
+raleigh,Baker's Dozen Donuts 2,103,27616,4.5,$,35.87073,-78.57847,Donuts
+raleigh,Alpaca Peruvian Charcoal Chicken,140,27604,4.5,$,35.846573,-78.579849,Peruvian
+raleigh,Ole Time Barbecue,259,27606,4.0,$,35.78733,-78.73877,Barbeque
+raleigh,Driftwood Southern Kitchen,334,27615,4.0,$$,35.8951072692871,-78.6215591430664,Southern
+raleigh,Mitch's Tavern,191,27607,4.0,$,35.7877876,-78.6676991,Pubs
+raleigh,Parkside,199,27601,4.0,$$,35.77679,-78.64378,American (Traditional)
+raleigh,Vita Vite Downtown,73,27601,4.5,$$,35.7782024,-78.6442407,Wine Bars
+raleigh,Sullivan's Steakhouse,336,27603,4.0,$$$,35.785815,-78.64713,Bars
+raleigh,Seoul 116,88,27603,4.5,$$,35.78238,-78.64537,Korean
+raleigh,Barry's Cafe,208,27606,4.0,$,35.743380084876,-78.737727903289,Burgers
+raleigh,J. Alexander's Restaurant,223,27612,4.0,$$,35.8407153462332,-78.6845733951346,American (Traditional)
+raleigh,Mura,301,27609,3.5,$$,35.8366351605328,-78.6437791585922,Sushi Bars
+raleigh,Bartaco North Hills,134,27609,4.5,$$,35.8376358,-78.6426303,Tacos
+raleigh,Gusto Farm to Street,101,27609,4.5,$,35.8242234,-78.6216781,Pizza
+raleigh,Whiskey Kitchen,227,27601,4.0,$$,35.776714,-78.64215,Southern
+raleigh,ORO Restaurant & Lounge,238,27601,4.0,$$,35.7768818306493,-78.6384739986725,Tapas/Small Plates
+raleigh,Liquid State,88,27607,4.5,$$,35.7860003895156,-78.661758404128,Wine Bars
+raleigh,St. Roch Fine Oysters + Bar,100,27601,4.5,$$,35.77751,-78.63794,American (New)
+raleigh,Fogata BRAVA,140,27616,4.5,$$,35.8715445048438,-78.5831833372314,Tacos
+raleigh,State of Beer,83,27603,4.5,$$,35.7803481739001,-78.6450460847199,Bars
+raleigh,Fox Liquor Bar,214,27601,4.0,$$,35.77705,-78.63803,Bars
+raleigh,Margaux's Restaurant,204,27613,4.0,$$,35.8978105190509,-78.6821129465576,American (New)
+raleigh,Fresh Levant Bistro,124,27615,4.5,$$,35.8960824,-78.6224851,Mediterranean
+raleigh,Despina's Cafe,93,27613,4.5,$,35.9015464,-78.6813026,Coffee & Tea
+raleigh,The Cortez,121,27603,4.5,$$,35.78555,-78.64776,Seafood
+raleigh,Ni Asian Kitchen,140,27615,4.5,$$,35.8996287285436,-78.653164937082,Chinese
+raleigh,Death & Taxes,234,27601,4.0,$$$,35.77818,-78.64053,American (New)
+raleigh,Oak City Cafe,137,27603,4.5,$,35.725559,-78.647931,Cafes
+raleigh,Vinos Finos Tapas and Wine Bar,120,27615,4.5,$$,35.8947518319001,-78.622112322229,Wine Bars
+raleigh,Gallo Pelón Mezcaleria,59,27601,4.5,$$,35.77926,-78.63844,Cocktail Bars
+raleigh,The Capital Grille,153,27609,4.0,$$$,35.8382423778328,-78.6411294067942,Steakhouses
+raleigh,The Cardinal Bar,72,27603,4.5,$,35.78964,-78.64519,Bars
+raleigh,Tin Roof Teas,70,27605,4.5,$$,35.789838803485,-78.661553129113,Coffee & Tea
+raleigh,Firebirds Wood Fired Grill,226,27609,4.0,$$,35.8377441951746,-78.6427340272613,Steakhouses
+raleigh,Grand Asia Market,235,27606,4.0,$,35.7658597888147,-78.7399731102378,Bakeries
+raleigh,Happy + Hale,140,27601,4.0,$$,35.7741756850054,-78.6391733983232,Juice Bars & Smoothies
+raleigh,Fleming's Prime Steakhouse & Wine Bar - Raleigh,206,27612,4.0,$$$$,35.8388716546782,-78.6773314825256,Steakhouses
+raleigh,Royale,113,27601,4.5,$$,35.77665,-78.63647,French
+raleigh,Carroll's Kitchen,44,27601,5.0,$,35.77708,-78.63847,Community Service/Non-Profit
+raleigh,Oakwood Café,147,27601,4.0,$$,35.78089,-78.63446,Cuban
+raleigh,Caffe Luna,227,27601,4.0,$$,35.778016,-78.63677,Italian
+raleigh,MOFU Shoppe,121,27601,4.0,$$,35.77588,-78.63624,Asian Fusion
+raleigh,Mi Cancun,165,27615,4.0,$$,35.87465,-78.62315,Mexican
+raleigh,NOFO @ the Pig,204,27608,4.0,$$,35.8050799,-78.64689,Specialty Food
+raleigh,Pho Vietnam,265,27606,4.0,$,35.76635,-78.74213,Vietnamese
+raleigh,Dharani Express,87,27606,4.5,$$,35.7678003,-78.6954845,Indian
+raleigh,Aggie's Grill Station,93,27604,4.5,$,35.822145,-78.591549,American (Traditional)
+raleigh,State Farmers Market Restaurant,269,27603,3.5,$,35.7626143097878,-78.6637535691261,Southern
+raleigh,Benelux Coffee,137,27605,4.0,$,35.790024,-78.662729,Coffee & Tea
+raleigh,Global Village Organic Coffee,117,27607,4.0,$,35.7877992,-78.6677491,Coffee & Tea
+raleigh,O'Malley's Pub & Restaurant,142,27612,4.0,$,35.8534722,-78.7008303,Music Venues
+raleigh,Manhattan Cafe,92,27601,4.5,$,35.776241,-78.638475,Breakfast & Brunch
+raleigh,Flash House,55,27603,4.5,$$,35.7885022850604,-78.6462938221386,Cocktail Bars
+raleigh,La Santa Modern Mexican Food,125,27603,4.0,$$,35.78363,-78.64697,Mexican
+raleigh,Oakwood Pizza Box,72,27604,4.5,$$,35.78856,-78.63409,Pizza
+raleigh,Lucky Tree,60,27607,4.5,$,35.793872,-78.68856,Art Galleries
+raleigh,Bad Daddys Burger Bar,146,27615,4.0,$$,35.9030708,-78.6035132,Burgers
+raleigh,Rise Biscuits & Donuts,119,27615,4.0,$,35.8687231,-78.6209677,Donuts
+raleigh,The Blind Barbour,37,27607,5.0,$$,35.8095751,-78.6765601,Cocktail Bars
+raleigh,The Roast Grill,130,27603,4.0,$,35.780231,-78.645645,Hot Dogs
+raleigh,Lynnwood Grill & Brewing Concern,332,27613,3.5,$$,35.870433,-78.717094,Pizza
+raleigh,Shaba Shabu,299,27609,3.5,$$,35.8240606,-78.6217491,Japanese
+raleigh,Sir Walter Coffee,85,27601,4.5,$$,35.775683,-78.637175,Cocktail Bars
+raleigh,Zanyu Asian Noodles,101,27615,4.5,$$,35.8960824,-78.6224851,Noodles
+raleigh,Cloos' Coney Island,141,27606,4.0,$,35.77751,-78.67797,Hot Dogs
+raleigh,Premier Cakes,66,27615,4.5,$$,35.8730025882596,-78.6244830769989,Desserts
+raleigh,Chuy's,283,27609,3.5,$$,35.8366515516641,-78.6376325573292,Tex-Mex
+raleigh,Frank's Pizza & Italian Restaurant,94,27610,4.5,$$,35.7794762,-78.606987,Pizza
+raleigh,Taza Grill,98,27615,4.5,$,35.868496,-78.622601,Greek
+raleigh,Brio Tuscan Grille,240,27612,3.5,$$,35.8390030602887,-78.6773013901825,Italian
+raleigh,Kabab and Curry,168,27607,4.0,$$,35.7877543,-78.6675567,Indian
+raleigh,Los Cuates,124,27609,4.0,$,35.8423435569261,-78.6102772029733,Mexican
+raleigh,MOD Pizza,144,27612,4.0,$,35.8573861420155,-78.678460791707,Pizza
+raleigh,Cristo's NY Style Pizza,104,27609,4.0,$$,35.8506371,-78.6163056,Pizza
+raleigh,Linus & Pepper's,83,27601,4.5,$$,35.7784783820258,-78.6403281693081,Sandwiches
+raleigh,Watts & Ward,118,27601,4.0,$$,35.777995,-78.63669,Speakeasies
+raleigh,Tijuana Flats,134,27609,4.0,$,35.85053,-78.61641,Mexican
+raleigh,Sushi Tsune,134,27607,4.0,$$,35.7927899,-78.68393,Sushi Bars
+raleigh,Kadhai The Indian Wok,194,27612,4.0,$$,35.8590527560536,-78.7036806097751,Indian
+raleigh,Thaiphoon Bistro,193,27603,3.5,$$,35.7845466,-78.647389,Thai
+raleigh,Lonerider Brewing Company,101,27617,4.5,$,35.90367,-78.76249,Breweries
+raleigh,Night Kitchen Bakehouse & Cafe,76,27604,4.5,$,35.7894401550293,-78.6401748657227,Cafes
+raleigh,Simply Crepes Raleigh,303,27615,3.5,$$,35.8960894,-78.6224851,Creperies
+raleigh,Another Broken Egg Cafe,264,27609,3.5,$$,35.8366182114242,-78.6383321919475,American (Traditional)
+raleigh,BurgerFi,255,27609,3.5,$$,35.822594,-78.620584,American (New)
+raleigh,The Players Retreat,158,27605,4.0,$$,35.78623,-78.66156,Sports Bars
+raleigh,P.F. Chang's,211,27612,3.5,$$,35.8401814884114,-78.6786037129669,Chinese
+raleigh,Gringo A Go-Go,239,27601,3.5,$$,35.781265,-78.634478,Mexican
+raleigh,Sawasdee Thai Restaurant,174,27604,4.0,$$,35.82958,-78.58592,Thai
+raleigh,Two Roosters Ice Cream,63,27615,4.5,$$$,35.8869,-78.65973,Food Trucks
+raleigh,The Butcher's Market,81,27609,4.5,$$,35.849719,-78.614797,Butcher
+raleigh,Milton's Pizza and Pasta,134,27615,4.0,$$,35.900513,-78.654134,Pizza
+raleigh,Poke Go,97,27613,4.5,$$,35.8973309944352,-78.680796244963,Poke
+raleigh,Randy's Pizza,106,27607,4.0,$,35.8172733911864,-78.6927838781716,Pizza
+raleigh,Bahama Breeze,334,27609,3.5,$$,35.8286,-78.62048,Seafood
+raleigh,A Place At The Table,55,27601,4.5,$,35.778549,-78.644212,Cafes
+raleigh,The Cheesecake Factory,387,27612,3.0,$$,35.8398333749835,-78.6784108465577,American (New)
+raleigh,Brewerks Cafe & Bakery,50,27601,4.5,$,35.783679,-78.629142,Cafes
+raleigh,Virgil's Original Taqueria,146,27601,4.0,$$,35.778621,-78.640411,Mexican
+raleigh,Hangover Grill,72,27607,4.5,$,35.7894915,-78.6754164,American (Traditional)
+raleigh,Poke Bar,63,27607,4.5,$$,35.78854,-78.67012,Poke
+raleigh,Flying Burrito,306,27613,3.5,$,35.87113,-78.71615,Tex-Mex
+raleigh,Pam's Farm House,130,27606,4.0,$,35.785991,-78.711845,Southern
+raleigh,Big Ed's North,151,27609,4.0,$,35.849961,-78.6147149,Southern
+raleigh,Vic's Italian Restaurant & Pizzeria,100,27607,4.0,$$,35.81544,-78.69668,Pizza
+raleigh,Orchid Japanese Restaurant,213,27613,3.5,$$,35.8883089,-78.679474,Japanese
+raleigh,Mulino Italian Kitchen & Bar,103,27603,4.0,$$,35.78454,-78.64346,Italian
+raleigh,Pho Super 9,158,27616,4.0,$$,35.8739859799134,-78.5823287401577,Vietnamese
+raleigh,Kim's Asian Market,49,27612,4.5,$$,35.86064,-78.71217,Korean
+raleigh,Chow Pizza Bar,201,27613,3.5,$$,35.8999920824885,-78.6823936842697,Pizza
+raleigh,B.GOOD,159,27609,3.5,$$,35.836925,-78.637272,Salad
+raleigh,Sushi Nine,242,27606,3.5,$$,35.78531,-78.68935,Sushi Bars
+raleigh,Lemongrass Thai Restaurant,137,27615,4.0,$$,35.89223,-78.59988,Thai
+raleigh,Moonlight Pizza Company,166,27603,3.5,$$,35.7797219626858,-78.6488728230552,Pizza
+raleigh,Imperial Garden Chinese Restaurant,121,27615,4.0,$$,35.885641,-78.660559,Chinese
+raleigh,Sushi Blues Cafe,395,27603,3.0,$$,35.7845062307937,-78.6475706726734,Sushi Bars
+raleigh,Viva Chicken,61,27609,4.5,$$,35.837713463006,-78.6437385208321,Peruvian
+raleigh,Poppyseed Market,109,27615,4.0,$$,35.905006,-78.65771,Delis
+raleigh,Hibernian Restaurant & Pub,207,27603,3.5,$$,35.784736,-78.64756,Irish
+raleigh,Krispy Kreme,110,27604,4.0,$,35.787982,-78.634849,Donuts
+raleigh,Thai House,158,27609,3.5,$$,35.8362121582031,-78.6151123046875,Thai
+raleigh,Tokyo House,127,27615,4.0,$$,35.881218,-78.6460808,Japanese
+raleigh,The Green Light,74,27601,4.0,$$,35.778049,-78.637892,Cocktail Bars
+raleigh,Cook Out,104,27606,4.0,$,35.78482,-78.69305,Burgers
+raleigh,Casa Carbone Ristorante Italiano,122,27612,4.0,$$,35.8543123,-78.7003165,Italian
+raleigh,Cousins Maine Lobster - Raleigh,170,27587,3.5,$$,35.7790352,-78.6456805,Seafood
+raleigh,Tonbo Ramen,167,27601,3.5,$$,35.77784,-78.63803,Ramen
+raleigh,Rey's Restaurant,129,27606,4.0,$$$,35.7681884765625,-78.7414627075195,Seafood
+raleigh,The District Raleigh,58,27601,4.5,$$,35.77961,-78.64366,Southern
+raleigh,Citizen Pops,69,27612,4.0,$,35.853279,-78.687299,Ice Cream & Frozen Yogurt
+raleigh,Rise Biscuits Donuts,150,27605,4.5,$,35.7917563,-78.6608828,Donuts
+raleigh,The Wild Cook's Indian Grill,115,27607,4.0,$$,35.79121,-78.68002,Indian
+raleigh,Sushi O Bistro and Sushi Bar,186,27603,3.5,$$,35.78363,-78.64697,Sushi Bars
+raleigh,Groovy Duck Bakery,90,27612,4.0,$$,35.826998,-78.703492,Bakeries
+raleigh,Anise Pho,51,27603,4.5,$,35.7836251,-78.6471448,Vietnamese
+raleigh,The Mecca Restaurant,164,27601,3.5,$,35.77709,-78.63864,Breakfast & Brunch
+raleigh,Bonefish Grill,202,27609,3.5,$$,35.840453,-78.643358,Seafood
+raleigh,Chopt Creative Salad Co.,93,27605,4.0,$$,35.789822,-78.660551,Salad
+raleigh,Vic's Italian Restaurant & Pizzeria,164,27601,3.5,$$,35.7758806,-78.6358072,Italian
+raleigh,William & Company,37,27604,4.5,$$,35.7887573,-78.6341858,Cocktail Bars
+raleigh,Taste,64,27608,4.5,$$,35.807601,-78.630418,Tapas/Small Plates
+raleigh,Five Star Restaurant,177,27603,3.5,$$,35.7783651,-78.6462102,Chinese
+raleigh,Lyla Jones Bake Shop,32,27612,4.5,$$,35.840196887234,-78.6795265813897,Bakeries
+raleigh,Toreros Mexican Restaurant,128,27604,4.0,$$,35.848752843558,-78.602133759373,Mexican
+raleigh,Cantina 18,206,27605,3.5,$$,35.7896936,-78.661301,Tex-Mex
+raleigh,Village Draft House,188,27605,3.5,$$,35.789872595432,-78.660671576506,Bars
+raleigh,Jubala Village Coffee,92,27607,4.0,$,35.7866616976038,-78.6632600426674,Coffee & Tea
+raleigh,Assaggio's,150,27613,3.5,$$,35.86327,-78.71057,Italian
+raleigh,Bloomsbury Bistro,67,27608,4.0,$$$,35.8039894,-78.6447372,American (New)
+raleigh,PDQ - Raleigh,129,27615,4.0,$,35.86884,-78.6214,Fast Food
+raleigh,Raleigh French Bakery,54,27603,4.5,$,35.78286,-78.65594,Bakeries
+raleigh,Paris Nail Bar,95,27607,4.0,$$,35.80698,-78.73032,Wine Bars
+raleigh,The Pharmacy Cafe,62,27604,4.5,$,35.7891044616699,-78.6340866088867,Cafes
+raleigh,B B & Y,45,27617,4.5,$,35.908684,-78.766994,Seafood
+raleigh,Boondini's Sandwich Superstore,74,27615,4.0,$,35.8807731187869,-78.6470522856208,Sandwiches
+raleigh,Goodberrys Frozen Custard,46,27615,4.5,$,35.860849,-78.598688,Ice Cream & Frozen Yogurt
+raleigh,Clockwork,95,27603,4.0,$$,35.7848403486604,-78.6469893940296,Bars
+raleigh,Big Boss Taproom,73,27604,4.0,$,35.8100351713808,-78.6171076084595,Beer Bar
+raleigh,Jimmy V's Osteria & Bar,243,27601,3.5,$$,35.774778008093,-78.6395429086135,Bars
+raleigh,Mia Francesca,169,27609,3.5,$$,35.8362631433577,-78.6439141880884,Italian
+raleigh,City Barbeque,138,27615,4.0,$$,35.9020986022546,-78.6028340503319,Barbeque
+raleigh,Vinnie's Steak House & Tavern,85,27615,4.0,$$$,35.88157,-78.6452599,Steakhouses
+raleigh,Brigs Great Beginnings,127,27613,4.0,$$,35.8993645759106,-78.6817919547005,Breakfast & Brunch
+raleigh,Rye Bar and Southern Kitchen,197,27601,3.5,$$,35.77359,-78.63997,Southern
+raleigh,Iris,105,27607,4.0,$$,35.8108399781509,-78.7033269185936,American (New)
+raleigh,Mo-Te Vietnamese Restaurant,105,27604,4.0,$,35.8361864400349,-78.5862606071032,Vietnamese
+raleigh,The Cupcake Shoppe,181,27603,3.5,$,35.7819935234199,-78.6473864481717,Bakeries
+raleigh,Aladdin's Eatery - North Hills,52,27609,4.5,$$,35.83931,-78.645104,Lebanese
+raleigh,Cup A Joe,143,27607,3.5,$,35.79026,-78.6777,Coffee & Tea
+raleigh,Char-Grill,72,27603,4.0,$,35.7811,-78.64851,Burgers
+raleigh,Third Place Coffee House,90,27608,4.0,$,35.8050458652885,-78.6466162750672,Coffee & Tea
+raleigh,The Melting Pot - Raleigh,138,27609,3.5,$$$,35.82403,-78.6217999,Fondue
+raleigh,Clean Eatz - Raleigh,71,27615,4.5,$,35.881861,-78.6462608,Wraps
+raleigh,The Big Easy - Raleigh,262,27601,3.5,$$,35.7774611745361,-78.6394617933521,Cajun/Creole
+raleigh,Clyde Cooper's Barbecue,138,27601,3.5,$,35.7762505,-78.6383103,Barbeque
+raleigh,Pieology Pizzeria,74,27609,4.0,$,35.8370970889961,-78.6422433604842,Pizza
+raleigh,Anvil's Cheesesteaks,119,27606,4.0,$,35.744054,-78.7366629,Cheesesteaks
+raleigh,Sopranos Grill,99,27610,4.0,$$,35.7921497139744,-78.5491436068153,Italian
+raleigh,Dram and Draught,50,27603,4.5,$$,35.7805357464364,-78.64885289222,Cocktail Bars
+raleigh,42 & Lawrence,71,27601,4.0,$$,35.7767611731607,-78.636793220203,Coffee & Tea
+raleigh,Havana Deluxe,47,27603,4.5,$$,35.78604,-78.64764,Whiskey Bars
+raleigh,The Haymaker,59,27601,4.0,$$,35.7732738394447,-78.6393018942676,Cocktail Bars
+raleigh,Cafe Tiramisu,60,27609,4.0,$$,35.8646085,-78.6199874,Italian
+raleigh,Tacos Y Mariscos Vallarta,88,27604,4.0,$$,35.8236312866211,-78.5886077880859,Mexican
+raleigh,Sushi-Thai Restaurant,163,27613,3.5,$$,35.8171224,-78.6939693,Sushi Bars
+raleigh,Jack's Seafood & Soul Food Restaurant,66,27610,4.0,$,35.7797355651855,-78.6163177490234,Seafood
+raleigh,Cameron Bar and Grill,176,27605,3.5,$$,35.789639,-78.660017,Bars
+raleigh,Pho Pho Pho,238,27603,3.0,$$,35.7870804,-78.6469934,Vietnamese
+raleigh,La Rancherita,150,27615,3.5,$$,35.8816376,-78.6458969,Mexican
+raleigh,La Rancherita,104,27612,4.0,$$,35.8373776866847,-78.6763511450544,Mexican
+raleigh,San Marcos Mexican Restaurant,94,27612,4.0,$$,35.8370246887207,-78.6798324584961,Mexican
+raleigh,El Tapatio Mexican Restaurant,78,27610,4.0,$,35.79875,-78.55937,Mexican
+raleigh,Goodberry's Frozen Custard,86,27605,4.0,$,35.7895102896392,-78.6603768710029,Ice Cream & Frozen Yogurt
+raleigh,New York Bagel and Deli,117,27615,4.0,$,35.8933,-78.62599,Delis
+raleigh,Thai Villa,136,27606,3.5,$$,35.7645747208655,-78.7421581269837,Thai
+raleigh,Deja Brew  Coffee House,90,27609,4.0,$,35.84901,-78.61492,Coffee & Tea
+raleigh,CO,76,27609,4.0,$$,35.8384475,-78.640407,Asian Fusion
+raleigh,Amedeo's Italian Restaurant,136,27606,3.5,$$,35.784657,-78.689811,Italian
+raleigh,NC Seafood Restaurant,119,27603,3.5,$$,35.7636464080394,-78.6627099315994,Seafood
+raleigh,Tropical Picken Chicken Raleigh,150,27609,3.5,$$,35.81909,-78.62606,Dominican
+raleigh,The Wandering Moose,48,27615,4.5,$$,35.89223,-78.59988,Food Trucks
+raleigh,Mike's Pizza,37,27610,4.5,$,35.799234,-78.5707718,Pizza
+raleigh,Maude's Garden and Coffee,49,27613,4.5,$,35.906076,-78.7025,Coffee & Tea
+raleigh,Compass Rose Brewery,88,27615,4.0,$$,35.8839340209961,-78.5827102661133,Breweries
+raleigh,The Daily Planet Cafe,70,27601,4.0,$,35.78234,-78.64082,Cafes
+raleigh,Midtown Grille,139,27609,3.5,$$,35.8397780015204,-78.6433063164856,Bars
+raleigh,Taj Mahal,89,27615,4.0,$$,35.8730291273462,-78.6237762333436,Indian
+raleigh,Chopstix Gourmet and Sushi Bar,157,27612,3.5,$$,35.8579279426118,-78.6820150539279,Chinese
+raleigh,Backyard Bistro,227,27607,3.5,$$,35.7989654541016,-78.7255477905273,American (Traditional)
+raleigh,Ruth's Chris Steak House,105,27609,3.5,$$$,35.837982211475,-78.644197028473,Steakhouses
+raleigh,Manchester's Grill,92,27613,4.0,$$,35.8974944919344,-78.7258225651362,Pizza
+raleigh,Buffalo Brothers Pizza & Wing,88,27604,4.0,$$,35.822315,-78.589749,American (Traditional)
+raleigh,Abyssinia Ethiopian Restaurant,103,27606,4.0,$$,35.7803824,-78.6755959,Ethiopian
+raleigh,Ruckus Pizza - Raleigh,87,27606,4.0,$,35.7777015979969,-78.6750904155709,Pizza
+raleigh,The Shiny Diner,187,27606,3.5,$,35.76446,-78.74435,Diners
+raleigh,Sergio's Pizza,104,27616,4.0,$,35.874538,-78.539772,Pizza
+raleigh,Watkins Grill,62,27604,4.0,$,35.8018,-78.62518,Breakfast & Brunch
+raleigh,Dino's Capri Restaurant,67,27615,4.0,$$,35.8692283630371,-78.6225128173828,Italian
+raleigh,Seaboard Cafe,32,27604,4.5,$,35.7899436950684,-78.6408843994141,American (New)
+raleigh,Nancy's Pizzeria,113,27613,4.0,$$,35.89853,-78.68223,Pizza
+raleigh,Penn Station East Coast Subs,48,27609,4.5,$,35.8683624267578,-78.6214981079102,Sandwiches
+raleigh,Anisette,32,27608,4.5,$,35.8005142211914,-78.6389846801758,Bakeries
+raleigh,Landmark Tavern,57,27601,4.0,$$,35.778348394374,-78.637591349677,Pubs
+raleigh,Armadillo Grill,143,27603,3.5,$,35.786118316766,-78.6474545239476,Mexican
+raleigh,Piola Raleigh,134,27609,3.5,$$,35.8368634763026,-78.6378246545792,Pizza
+raleigh,Tobacco Road Sports Cafe & Brewery,87,27603,4.0,$$,35.78258,-78.646449,Sports Bars
+raleigh,Grabbagreen Raleigh,51,27609,4.0,$$,35.84001,-78.64328,Juice Bars & Smoothies
+raleigh,North Ridge Pub,58,27609,4.0,$$,35.86627,-78.61874,Pubs
+raleigh,Salsa Fresh,89,27612,4.0,$,35.858854,-78.71209,Mexican
+raleigh,Al Baraka Grill,50,27607,4.0,$,35.7941932678223,-78.6896209716797,Mediterranean
+raleigh,Five Guys,57,27613,4.0,$,35.8978899,-78.68118,Fast Food
+raleigh,My Way Tavern,72,27605,4.0,$$,35.787162,-78.650604,American (New)
+raleigh,Los Cuates,51,27604,4.0,$,35.8271194015347,-78.586401011979,Mexican
+raleigh,Himalayan Range Nepali Restaurant,231,27513,4.5,$$,35.801472,-78.7680066,Himalayan/Nepalese
+raleigh,Jerusalem Bakery & Grocery,27,27606,4.5,$,35.77796933608,-78.6754521669646,Grocery
+raleigh,Kanki,231,27612,3.0,$$,35.840498,-78.679106,Japanese
+raleigh,Hako Japanese Restaurant,76,27608,3.5,$$,35.8150465680023,-78.6610150337219,Sushi Bars
+raleigh,Hereghty Heavenly Delicious,76,27608,3.5,$,35.8153117,-78.6603511,Desserts
+raleigh,Beansprout Chinese Restaurant,77,27607,3.5,$,35.793937,-78.687591,Chinese
+raleigh,Red Hot & Blue,142,27615,3.5,$$,35.87325086786,-78.623930829361,Barbeque
+raleigh,Saltwater Seafood & Fry Shack,53,27604,4.0,$,35.80312,-78.62099,Seafood
+raleigh,Capital Creations Gourmet Pizza,41,27608,4.0,$$,35.804014,-78.625345,Pizza
+raleigh,Kabobi,53,27612,4.0,$,35.840848,-78.681537,Mediterranean
+raleigh,Pearl Chinese Restaurant,93,27606,3.5,$,35.7668262761724,-78.6949880926174,Chinese
+raleigh,The Chocolate Boutique,43,27615,4.5,$$,35.8960915,-78.6224823,Chocolatiers & Shops
+raleigh,Tenko Japan,58,27609,4.0,$,35.8700065612793,-78.6227951049805,Japanese
+raleigh,World of Beer,143,27609,3.5,$$,35.8368602890773,-78.6395283756546,Pubs
+raleigh,Burger 21,87,27609,3.5,$$,35.8669931096077,-78.6193676177821,Burgers
+raleigh,Red Monkey Latin Fusion Kitchen,296,27612,3.0,$$,35.8402945163823,-78.679140760494,American (New)
+raleigh,Tenko Japan,74,27612,4.0,$,35.82518,-78.70322,Japanese
+raleigh,Bottle Rev 3,23,27615,4.5,$,35.886173,-78.660438,"Beer, Wine & Spirits"
+raleigh,Fox & Hound,186,27609,3.0,$$,35.8370847868355,-78.6422642714262,Sports Bars
+raleigh,Nur Mediterranean Deli & Market,48,27606,4.0,$,35.7776953,-78.6748526,Grocery
+raleigh,Donatos Pizza,74,27604,4.0,$$,35.788608,-78.640168,Pizza
+raleigh,Zest Café and Home Art,76,27615,4.0,$$,35.9005839,-78.6522649,Cafes
+raleigh,McCormick & Schmick's Seafood & Steaks,240,27612,3.0,$$$,35.8386807,-78.6767761,Seafood
+raleigh,DICED,50,27605,4.0,$$,35.798129,-78.6596009,American (Traditional)
+raleigh,Gigi's Cupcakes of Raleigh,95,27605,3.5,$$,35.798231,-78.659615,Desserts
+raleigh,Hummingbird,57,27604,4.0,$$,35.8078665816407,-78.62141,Bars
+raleigh,Larry's Coffee,15,27608,5.0,$$,35.8035,-78.63404,Coffee Roasteries
+raleigh,Zoes Kitchen,78,27609,3.5,$,35.8373700646751,-78.6390673322967,Sandwiches
+raleigh,Juicekeys,22,27615,5.0,$$,35.8960965,-78.6224851,Organic Stores
+raleigh,Salvio's Pizzeria,73,27615,4.0,$,35.870118,-78.622721,Chicken Wings
+raleigh,Taza Grill,51,27614,4.0,$,35.907678999512,-78.5901638679913,Mediterranean
+raleigh,Solas,155,27603,3.0,$$$,35.78568,-78.64775,Lounges
+raleigh,Farina Neighborhood Italian,92,27615,3.5,$$,35.8960824,-78.6224851,Pizza
+raleigh,Tuscan Blu,157,27601,3.5,$$,35.775168,-78.6447558,Italian
+raleigh,Uncorked,54,27614,4.0,$$,35.9079673,-78.5885371,Wine Bars
+raleigh,The Piper's Tavern,128,27615,3.5,$$,35.894648,-78.619942,American (Traditional)
+raleigh,Sunflowers Cafe,69,27603,3.5,$,35.7884486599597,-78.6392682181348,Sandwiches
+raleigh,Peace China,104,27604,3.5,$,35.790912344701,-78.639818131044,Chinese
+raleigh,Trophy Tap + Table,91,27601,3.5,$$,35.77744,-78.63795,American (New)
+raleigh,Village Deli and Grill - Cameron Village,108,27605,3.5,$$,35.7912892,-78.6607172,Delis
+raleigh,Arepa Culture NC,38,27612,4.0,$,35.85663,-78.712,Venezuelan
+raleigh,Cup A Joe,74,27606,3.5,$,35.7803824,-78.6755959,Coffee & Tea
+raleigh,Level Up Kitchen & Barcadium,68,27601,3.5,$$,35.77862,-78.64041,Arcades
+raleigh,Creedmoor Cafe,49,27613,4.5,$,35.900587,-78.6812073,Diners
+raleigh,Goodnights Comedy Club,137,27603,3.0,$$,35.7807002695487,-78.6560937276265,Comedy Clubs
+raleigh,The Peddler Steak House,88,27612,3.5,$$$,35.854006,-78.701542,Steakhouses
+raleigh,Nantucket Grill - Raleigh,146,27614,3.5,$$,35.90788,-78.58764,American (Traditional)
+raleigh,Cook Out,72,27615,3.5,$,35.8716506958008,-78.6223678588867,Fast Food
+raleigh,Sake House,90,27614,3.5,$$,35.9074572004892,-78.5890627521496,Sushi Bars
+raleigh,Jamaican Grille,63,27616,4.0,$,35.85752,-78.59669,Caribbean
+raleigh,Kings Dining & Entertainment - Raleigh North Hills,199,27609,3.0,$$,35.83761,-78.639751,American (Traditional)
+raleigh,Caribou Coffee,77,27612,3.5,$,35.825137971358,-78.7084731607661,Coffee & Tea
+raleigh,Benny Capitale's,55,27601,4.0,$,35.7788294,-78.6390154,Pizza
+raleigh,Buffalo Brothers,152,27607,3.0,$$,35.81545,-78.69647,Sports Bars
+raleigh,Crema,60,27601,4.0,$,35.7788300868831,-78.6390419218276,Coffee & Tea
+raleigh,Carolina Sushi & Roll,70,27616,4.0,$$,35.8647679,-78.5704649,Sushi Bars
+raleigh,Smashburger,124,27615,3.5,$,35.8747621625662,-78.6230396479368,Burgers
+raleigh,Five Guys,49,27609,4.0,$,35.8365484,-78.6431794,Burgers
+raleigh,Denny's,71,27609,3.5,$,35.8272399404777,-78.6208489537239,Breakfast & Brunch
+raleigh,Side Street Restaurant,42,27601,4.0,$,35.7835159301758,-78.6333084106445,Sandwiches
+raleigh,Edible Art,71,27609,3.5,$$$,35.836540222168,-78.6408615112305,Bakeries
+raleigh,Boylan Bridge Brewpub,263,27603,2.5,$$,35.77858,-78.64904,American (Traditional)
+raleigh,Sunny's Diner,101,27612,3.5,$,35.8872050356812,-78.7437149261573,Diners
+raleigh,Jersey Mike's Subs,29,27612,4.5,$,35.8587189,-78.7119904,Sandwiches
+raleigh,Shish Kabob,73,27601,3.5,$,35.7744809614877,-78.6396532369622,Mediterranean
+raleigh,Cafe Carolina and Bakery,107,27605,3.5,$,35.78918,-78.66147,Bakeries
+raleigh,Level7,92,27609,3.5,$$,35.8381608856319,-78.6401079863593,Tapas/Small Plates
+raleigh,Starbucks,35,27609,4.0,$,35.839891,-78.643117,Coffee & Tea
+raleigh,Petra Grill,45,27616,4.0,$,35.8678603,-78.5821676,Mediterranean
+raleigh,Papa's Pizza & Subs,70,27615,3.5,$,35.886196,-78.660446,Pizza
+raleigh,Sushi One,128,27615,3.5,$$,35.8949595182615,-78.6214315347794,Sushi Bars
+raleigh,Woody's At City Market,134,27601,3.0,$$,35.7763393879335,-78.6364494919859,Sports Bars
+raleigh,Shahrazad Hookah Lounge & Coffee,46,27607,4.0,$$,35.7943192,-78.6899719,Arabian
+raleigh,Brixx Wood Fired Pizza,55,27605,4.0,$$,35.78977,-78.66237,Pizza
+raleigh,Shane's Rib Shack,80,27616,3.5,$$,35.8638247,-78.5705549,Barbeque
+raleigh,El Taco Market,41,27610,4.0,$,35.797415,-78.576007,Mexican
+raleigh,Chick-fil-A,29,27607,4.5,$,35.816087,-78.692885,Fast Food
+raleigh,Annelore's German Bakery,37,27603,4.0,$$,35.7625189612336,-78.6632789347793,Bakeries
+raleigh,Max's Pizza & Grill,48,27612,4.0,$,35.8587227,-78.6808777,Pizza
+raleigh,Coglin's Raleigh,76,27601,3.5,$$,35.7774162,-78.6394041,Bars
+raleigh,Slice Pie Company,17,27606,5.0,$$,35.7418297,-78.713608,Desserts
+raleigh,Hoppy Endings,19,27615,4.5,$$,35.892121014216,-78.5996672138572,Bars
+raleigh,Bojangles,66,27606,3.5,$,35.785205,-78.688743,Fast Food
+raleigh,Lee's Kitchen,92,27604,3.5,$$,35.8480865,-78.5802008,Caribbean
+raleigh,Jason's Deli,62,27609,3.5,$,35.86766,-78.62313,Sandwiches
+raleigh,D P Dough,60,27606,4.0,$,35.7794152055009,-78.6755702148795,Pizza
+raleigh,Baja Burrito,81,27606,3.5,$,35.779686394905,-78.675648833698,Mexican
+raleigh,Dos Taquitos,119,27612,3.5,$$,35.8549575854494,-78.7019455432892,Mexican
+raleigh,The Village Grill,164,27615,3.0,$$,35.8949999320226,-78.6214823925209,American (Traditional)
+raleigh,La Carreta Mexican Restaurant,85,27605,3.5,$$,35.7975573684215,-78.6595097048935,Mexican
+raleigh,Hibernian Restaurant & Pub,130,27615,3.5,$$,35.894044,-78.624527,Irish
+raleigh,Chai's Asian Bistro,91,27613,3.5,$$,35.9011491,-78.6812648,Asian Fusion
+raleigh,Royal India Restaurants,118,27604,3.0,$$,35.833643,-78.584054,Indian
+raleigh,Spring Rolls,101,27607,3.5,$$,35.8068251292269,-78.7298310619018,Asian Fusion
+raleigh,Lunch Box Deli,35,27604,4.0,$,35.819465637207,-78.5904083251953,Delis
+raleigh,Bella Italia,75,27614,3.5,$$,35.9062009065237,-78.592686758106,Italian
+raleigh,Las Marias Tacos Y Pupusas,37,27609,4.0,$$,35.8382348486587,-78.6102706788574,Tacos
+raleigh,Deep South The Bar,33,27601,4.0,$$,35.774590859316,-78.64389965687,Bars
+raleigh,Gigi's Cupcakes of Brier Creek,93,27617,3.5,$$,35.9055578,-78.7858534,Bakeries
+raleigh,Which Wich,47,27609,4.0,$,35.836461,-78.642661,Sandwiches
+raleigh,The Point at Glenwood,104,27608,3.5,$$,35.8031702,-78.6457451,Pizza
+raleigh,Valentino's Food Truck,28,27601,4.5,$,35.7774238586426,-78.6332855224609,Italian
+raleigh,Chick-fil-A,32,27609,4.0,$,35.8368015663642,-78.6421643317109,Fast Food
+raleigh,Chipotle Mexican Grill,45,27607,4.0,$,35.7877,-78.66665,Mexican
+raleigh,Peking Duck And Dumplings,38,27607,4.0,$$,35.78889,-78.67494,Noodles
+raleigh,Snoopy's Hot Dogs & More,38,27608,4.0,$,35.80725,-78.62502,Hot Dogs
+raleigh,Himalayan Nepali Cuisine,272,27511,4.5,$,35.790789100112,-78.7669263155303,Himalayan/Nepalese
+raleigh,Spring Rolls,150,27609,3.0,$$,35.8380637541134,-78.6437845230103,Asian Fusion
+raleigh,Cafe Capistrano,91,27616,3.5,$$,35.8950386047363,-78.5684127807617,Mexican
+raleigh,Dalat Asia Grandma' s Kitchen,108,27606,3.0,$$,35.7795504583321,-78.6754173281203,Vietnamese
+raleigh,Torii Noodle Bar,132,27612,3.0,$$,35.840454,-78.678991,Japanese
+raleigh,Mum's Jamaican Restaurant,38,27604,4.0,$$,35.8333895095052,-78.5840014965785,Caribbean
+raleigh,Saints & Scholars,80,27609,3.5,$$,35.86766,-78.62313,Irish Pub
+raleigh,Biscuitville,47,27608,3.5,$,35.81542,-78.62569,Breakfast & Brunch
+raleigh,Don Beto's Tacos,27,27603,4.5,$,35.734555,-78.653932,Mexican
+raleigh,Cook Out,48,27604,4.0,$,35.8237457275391,-78.5872116088867,Burgers
+raleigh,Menchie's Frozen Yogurt,35,27612,4.0,$$,35.8581958698229,-78.6807168647647,Ice Cream & Frozen Yogurt
+raleigh,Raleigh Crab House,59,27604,4.0,$$,35.8452096,-78.5797551,Seafood
+raleigh,Red Lobster,85,27609,3.5,$$,35.84113,-78.61058,Seafood
+raleigh,Bruster's Real Ice Cream,25,27614,4.5,$,35.905122,-78.588892,Ice Cream & Frozen Yogurt
+raleigh,Sommelier's Roast,16,27612,4.5,$$,35.83067,-78.66617,Coffee & Tea
+raleigh,Steve's Place,40,27616,4.0,$,35.870826,-78.578301,Hot Dogs
+raleigh,Roma Pizzeria & Italian Restaurant,25,27604,4.5,$,35.8352165,-78.5993271,Italian
+raleigh,Hungry Howie's Pizza,33,27608,4.0,$,35.808586,-78.655036,Pizza
+raleigh,Peking Garden,85,27609,3.5,$$,35.8559692,-78.6410552,Chinese
+raleigh,Baozi Food Truck,32,,4.0,$$,35.78551,-78.64267,Vegetarian
+raleigh,Herons,174,27513,4.5,$$$$,35.8298527953176,-78.7644302845001,Breakfast & Brunch
+raleigh,Carolina Ale House,161,27603,3.0,$$,35.7864167205057,-78.6470824863646,Sports Bars
+raleigh,Berkeley Cafe,45,27601,3.5,$,35.7767944335938,-78.6428070068359,Bars
+raleigh,K&W Cafeteria,57,27605,3.5,$,35.791035,-78.6594749,American (Traditional)
+raleigh,Tropical Smoothie Cafe,48,27609,3.5,$,35.8225304954725,-78.6203275993466,Juice Bars & Smoothies
+raleigh,Nina's Ristorante,62,27615,3.5,$$,35.90519,-78.65724,Italian
+raleigh,Wade Park Cafe,33,27607,4.0,$,35.808239,-78.7286911,Sandwiches
+raleigh,Edwards Mill Bar & Grill,109,27612,3.0,$$,35.826162662692,-78.7061824642357,Bars
+raleigh,London Bridge Pub,70,27601,3.5,$$,35.7781644165516,-78.6377609521151,Pubs
+raleigh,Groucho's Deli of Raleigh,38,27607,4.0,$,35.7880786528937,-78.6678160064433,Sandwiches
+raleigh,Dominic's NY Pizzeria,59,27616,3.5,$,35.865239,-78.567515,Pizza
+raleigh,River Pub,46,27614,4.0,$$,35.9079,-78.59009,American (Traditional)
+raleigh,El Rey del Taco,14,27609,4.5,$,35.814977,-78.6244169,Mexican
+raleigh,Raleighwood Cinema Grill,100,27615,3.0,$$,35.8729673826945,-78.6237456102708,Cinema
+raleigh,Hungry Howie's Pizza,33,27612,4.0,$,35.86046,-78.71032,Pizza
+raleigh,Tropical Smoothie Cafe,43,27613,4.0,$,35.8992763701722,-78.6823171521149,Sandwiches
+raleigh,The Pour House Music Hall,59,27601,3.5,$,35.77717,-78.63688,Bars
+raleigh,Chipotle Mexican Grill,66,27609,3.5,$,35.86589,-78.62033,Mexican
+raleigh,Happy + Hale,36,27609,4.0,$$,35.8362451,-78.6376833,Juice Bars & Smoothies
+raleigh,Insomnia Cookies,78,27607,3.5,$,35.7873833980481,-78.666128474996,Desserts
+raleigh,Starbucks,43,27605,3.5,$$,35.788415,-78.6478303,Coffee & Tea
+raleigh,Kanki,115,27609,3.0,$$,35.8423251,-78.6104031,Japanese
+raleigh,Community Deli,32,27605,4.0,$,35.79562,-78.66124,Delis
+raleigh,Grandotes Taco Grill,11,27607,5.0,$,35.7960306107998,-78.7072999030352,Food Trucks
+raleigh,Daylight Donuts,44,27613,4.0,$,35.889404,-78.67871,Donuts
+raleigh,Dame's Chicken and Waffles,329,27513,4.0,$$,35.8307597,-78.7698651,American (New)
+raleigh,Chick-fil-A,28,27615,4.0,$,35.87535,-78.62402,Fast Food
+raleigh,Chilango Tacos & Grill,16,27604,4.5,$,35.8351515,-78.599671,Mexican
+raleigh,Justin's Grill,37,27609,4.0,$,35.8503681313096,-78.6154393806307,Mediterranean
+raleigh,Goodberry's Frozen Custard,35,27615,4.0,$,35.902214,-78.656959,Ice Cream & Frozen Yogurt
+raleigh,The BrickHouse,83,27607,3.5,$$,35.793872833252,-78.6885604858398,Sports Bars
+raleigh,Jerk Masters,39,27610,4.0,$,35.777109,-78.61068,Caribbean
+raleigh,Crepe Traditions,61,27609,3.5,$,35.83666,-78.63772,Creperies
+raleigh,Redbowl Asian Bistro,137,27616,3.0,$$,35.8722969356463,-78.5812564555767,Asian Fusion
+raleigh,Manhattan Pizza,23,27615,4.5,$$,35.90525,-78.60024,Pizza
+raleigh,La Republica,19,,4.5,$,35.78551,-78.64267,Food Trucks
+raleigh,Stromboli's,62,27616,3.5,$$,35.8549646376093,-78.5906973699378,Italian
+raleigh,Jasmin & Olivz Mediterranean,70,27607,3.5,$,35.7879180908203,-78.6678314208984,Mediterranean
+raleigh,Hibachi China Buffet,142,27616,3.0,$$,35.850578,-78.582108,Chinese
+raleigh,Smallcakes Cupcakery,38,27607,4.0,$,35.7882583,-78.6691495,Ice Cream & Frozen Yogurt
+raleigh,Fiesta Mexicana,66,27606,3.5,$,35.7445218,-78.7389719,Mexican
+raleigh,Char-Grill Two,50,27612,3.5,$,35.825553894043,-78.7058029174805,Burgers
+raleigh,Milk Lab,248,27518,4.5,$$,35.744405,-78.760271,Ice Cream & Frozen Yogurt
+raleigh,Jamaican Jerk Masters,34,27610,4.0,$,35.7885094,-78.5867462,Caribbean
+raleigh,Chipotle Mexican Grill,65,27612,3.5,$,35.8603630065918,-78.707763671875,Mexican
+raleigh,Person Street Bar,43,27604,3.5,$$,35.7904835622424,-78.6346026447764,Bars
+raleigh,Back Yard Burgers,69,27613,3.5,$,35.9072201,-78.7262906,Burgers
+raleigh,Snoopy's Hot Dogs & More,64,27603,3.5,$,35.780956,-78.647834,Hot Dogs
+raleigh,Char-Grill,34,27609,4.0,$,35.901177,-78.655913,Burgers
+raleigh,Zoes Kitchen,65,27605,3.5,$,35.798592,-78.659851,Mediterranean
+raleigh,Outback Steakhouse,130,27613,3.0,$$,35.888216,-78.679386,Steakhouses
+raleigh,Awaze Ethiopian & Eritrean Cuisine,130,27513,4.5,$$,35.8005181724484,-78.7684561122687,Ethiopian
+raleigh,The Anchor Bar,55,27601,3.5,$$,35.7779018591626,-78.6390777658087,Cocktail Bars
+raleigh,Carrabba's Italian Grill,89,27616,3.0,$$,35.8525390625,-78.5814361572266,Italian
+raleigh,Sawmill Tap Room,93,27615,3.0,$$,35.885009765625,-78.6603240966797,Burgers
+raleigh,Empress Room,27,27603,4.0,$$,35.7855796,-78.6474659,Lounges
+raleigh,Crabtree Ale House,24,27612,4.5,$,35.840638,-78.681288,Sports Bars
+raleigh,Which Wich,64,27607,3.5,$,35.81545,-78.69647,Sandwiches
+raleigh,Village Deli & Grill - Lake Boone Trail,51,27607,3.5,$$,35.81779,-78.69306,Delis
+raleigh,Jet's Pizza,28,27609,4.0,$,35.822505,-78.620391,Pizza
+raleigh,Tony's Pizza,55,27613,3.5,$,35.88486581832,-78.737842178153,Pizza
+raleigh,El Pollo Rico Restaurant,29,27604,4.0,$$,35.8362481868455,-78.5861367278639,Mexican
+raleigh,Slice of NY Pizza,57,27607,3.5,$,35.7877,-78.66665,Pizza
+raleigh,Red Dragon Chinese Restaurant,74,27608,3.5,$$,35.8091164,-78.6545181,Chinese
+raleigh,Tama Tea,31,27601,4.0,$,35.77542,-78.63909,Tea Rooms
+raleigh,Sammy's Tap & Grill,130,27606,3.0,$$,35.77748,-78.67799,Sports Bars
+raleigh,Crisp Salads,38,27612,4.0,$,35.840833,-78.681406,Sandwiches
+raleigh,Vida Dulce,70,27511,5.0,$,35.790509,-78.760878,Ice Cream & Frozen Yogurt
+raleigh,Pei Wei,77,27609,3.0,$,35.8425037134523,-78.6120917786544,Chinese
+raleigh,Goodberry's Frozen Custard,57,27613,3.5,$,35.90762,-78.72644,Ice Cream & Frozen Yogurt
+raleigh,"Sami's Subs, Pizza, and More",41,27617,4.0,$,35.9014713,-78.7604399,Pizza
+raleigh,Neptune's Parlour,54,27601,3.5,$,35.77713,-78.6398,Bars
+raleigh,BurgerFi,286,27513,4.0,$$,35.82736,-78.771589,Hot Dogs
+raleigh,Southern Charred BBQ Bar ,69,27603,3.5,$$,35.7871468361927,-78.6470483280777,Southern
+raleigh,Chopt Creative Salad Co,54,27609,3.5,$$,35.865465,-78.619954,Salad
+raleigh,Drink Drank Drunk,19,27603,4.0,$,35.7813299,-78.65606,Wine Bars
+raleigh,Spanglish,17,27601,4.5,$$,35.7774238586426,-78.6332855224609,Food Trucks
+raleigh,Caribbean Cafe,69,27604,3.0,$$,35.8488006591797,-78.5907897949219,Caribbean
+raleigh,Nothing Bundt Cakes,22,27615,4.0,$$,35.8737839126387,-78.6249029846558,Bakeries
+raleigh,Legends Nightclub Complex,63,27601,3.5,$$,35.7786903,-78.6448135,Gay Bars
+raleigh,Jasmin & Olivz Mediterranean,58,27609,3.5,$,35.8200810604088,-78.626126870513,Mediterranean
+raleigh,Spring Cafe,46,27616,3.5,$,35.85495,-78.59114,Breakfast & Brunch
+raleigh,Chronic Tacos,67,27615,3.5,$$,35.9018228589926,-78.6025077251312,Mexican
+raleigh,B.GOOD,84,27601,3.0,$$,35.773594,-78.639272,Salad
+raleigh,Great Harvest Bread,22,27615,4.5,$$,35.90519,-78.65724,Bakeries
+raleigh,Sahara Hookah Bar,36,27605,3.5,$$,35.78886,-78.64898,Coffee & Tea
+raleigh,D & S Cafeteria,52,27606,3.5,$,35.7669677734375,-78.7393569946289,Southern
+raleigh,Leesville Tap Room,108,27613,3.0,$$,35.908040109108,-78.725361833416,American (Traditional)
+raleigh,Char-Grill,29,27604,4.0,$,35.8483925,-78.6018219,Burgers
+raleigh,Piccola Italia Pizza and Restaurant,67,27605,3.0,$$,35.7894449999873,-78.6593354334407,Pizza
+raleigh,Stromboli's,65,27612,3.5,$,35.8269081115723,-78.7034530639648,Italian
+raleigh,Artylicious Cakes,25,27617,4.0,$$,35.9075393676758,-78.7705459594727,Bakeries
+raleigh,Starbucks,34,27612,3.5,$,35.85763,-78.703628,Coffee & Tea
+raleigh,Golden Dragon,51,27607,3.5,$,35.7876306,-78.6671383,Chinese
+raleigh,Panaderia Artesanal,11,27604,4.5,$,35.835392,-78.5825653,Bakeries
+raleigh,Coffee & Crepes,284,27518,4.0,$,35.761175,-78.737948,Creperies
+raleigh,Jersey Mike's Subs,25,27609,4.0,$,35.86657,-78.620178,Sandwiches
+raleigh,Popeyes Louisiana Kitchen,35,27610,4.0,$,35.7975592,-78.5779937,Fast Food
