@@ -1,3 +1,0 @@
-api_key = 'Pxm4MqMpfrVpihjJX8Scru1EF--54r9grSWmDbNeXdd0smvLeoh372iDAwmR_xRnrnBdYyQirmItWy9aeCT7Y1MaKQSzPE75Etd74WMGNsil6UfsIL7SPoPTFxw9XHYx'
-
-gkey = 'AIzaSyBYyKzFiFbjII64nEsIPfIRIM0hpIgDrNo'
